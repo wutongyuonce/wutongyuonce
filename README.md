@@ -1,6 +1,6 @@
 ## Hey, I'm Wutong Yu 👋
 
-Full Stack & Agent Engineer | IoT @Hohai University| applying for MS CS @ HKU/CUHK/HKUST
+Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CUHK/HKUST
 
 ### Projects
 
