@@ -8,7 +8,7 @@ Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CU
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  7+   | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro blog theme |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  7+   | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
-| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  24+  | 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
+| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  6+  | 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
 | [PageIndex-MCP](https://github.com/wutongyuonce/PageIndex-MCP) |  6+   | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的本地MCP｜Local MCP based on [PageIndex](https://github.com/VectifyAI/PageIndex) |
 | [AI-Meeting](https://github.com/wutongyuonce/AI-Meeting)     |       | 简历分析、模拟面试 Agent \| Resume Analysis, Mock Interview Agent |
 
