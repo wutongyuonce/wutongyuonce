@@ -16,5 +16,5 @@ Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CU
 
 | Project                                               |                         PR                         | What I Fixed                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (1.9k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (1.9k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | Eliminate duplicate wiki-tool implementations in skill/tools.py |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (2k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (2k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | Eliminate duplicate wiki-tool implementations in skill/tools.py |
