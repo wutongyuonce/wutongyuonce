@@ -7,7 +7,7 @@ Currently working on [Pi](https://github.com/earendil-works/pi)/[ClaudeCode](htt
 
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  18+   | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro blog theme |
+| [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  19+   | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro blog theme |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  18+   | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
 | [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  34+  | 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
 | [PageIndex-MCP](https://github.com/wutongyuonce/PageIndex-MCP) |  8+   | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的本地MCP｜Local MCP based on [PageIndex](https://github.com/VectifyAI/PageIndex) |
