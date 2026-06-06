@@ -2,7 +2,7 @@
 
 Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CUHK/HKUST
 
-Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](https://github.com/wutongyuonce/Claude-Code-Source) / [nanobot](https://github.com/HKUDS/nanobot) / [deerflow](https://github.com/bytedance/deer-flow)
+Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](https://github.com/wutongyuonce/Claude-Code-Source)
 
 ### Projects
 
