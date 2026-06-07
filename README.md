@@ -28,6 +28,12 @@ Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](htt
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [NotchNotes](https://github.com/wutongyuonce/NotchNotes)     |       | 一款小巧的原生 macOS 刘海随手记应用 |
 
+### Backend
+
+| Project                                                      | Stars | What it does                                                 |
+| ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
+| [AdaptiveBufferedThreadPoolExecutor](https://github.com/wutongyuonce/AdaptiveBufferedThreadPoolExecutor)     |       | 一个自适应缓冲线程池执行器，基于JDK线程池扩展 |
+
 ## Open Source Contributions
 
 | Project                                               |                         PR                         | What I Fixed                                                 |
