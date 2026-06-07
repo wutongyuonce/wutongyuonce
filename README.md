@@ -11,8 +11,10 @@ Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](htt
 | [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  19+   | 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro blog theme |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  18+   | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
 | [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  35+  | 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
+| [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |     | Pi (pi-mono) 的深度解析与源码逐行解读 |
 | [PageIndex-MCP](https://github.com/wutongyuonce/PageIndex-MCP) |  8+   | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的本地MCP｜Local MCP based on [PageIndex](https://github.com/VectifyAI/PageIndex) |
 | [AI-Meeting](https://github.com/wutongyuonce/AI-Meeting)     |       | 简历分析、模拟面试 Agent \| Resume Analysis, Mock Interview Agent |
+| [NotchNotes](https://github.com/wutongyuonce/NotchNotes)     |       | 一款小巧的原生 macOS 刘海随手记应用 |
 
 ### Open Source Contributions
 
