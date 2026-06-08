@@ -22,7 +22,7 @@ Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](htt
 | [PageIndex-MCP](https://github.com/wutongyuonce/PageIndex-MCP) |  8+   | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的本地MCP｜Local MCP based on [PageIndex](https://github.com/VectifyAI/PageIndex) |
 | [AI-Meeting](https://github.com/wutongyuonce/AI-Meeting)     |       | 🧑🏻‍💻 简历分析、模拟面试 Agent \| Resume Analysis, Mock Interview Agent |
 
-### app
+### App
 
 
 | Project                                                      | Stars | What it does                                                 |
