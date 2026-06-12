@@ -1,8 +1,9 @@
-# Hey, I'm ![signature_Wutong Yu_animated](./signature_Wutong Yu_animated.svg) 👋
+<img src="./signature_Wutong%20Yu_animated.svg" alt="签名动画">
 
 Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CUHK/HKUST
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact)
 
 Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](https://github.com/wutongyuonce/Claude-Code-Source)
 
