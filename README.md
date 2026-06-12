@@ -1,4 +1,4 @@
-# Hey, I'm Wutong Yu 👋
+# Hey, I'm [./signature_Wutong Yu_animated.svg] 👋
 
 Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CUHK/HKUST
 
