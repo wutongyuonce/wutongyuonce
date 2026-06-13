@@ -12,7 +12,7 @@ Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](htt
 ### 博客
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  20+   | 🌐 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro blog theme |
+| [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  21+   | 🌐 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro blog theme |
 
 ### Agent
 
