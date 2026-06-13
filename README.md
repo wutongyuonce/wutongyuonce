@@ -1,4 +1,4 @@
-<img src="./signature_Wutong%20Yu_animated.svg" width="400" alt="签名动画">
+<img src="./signature_Wutong%20Yu_animated.svg" width="300" alt="签名动画">
 
 **Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CUHK/HKUST**
 
