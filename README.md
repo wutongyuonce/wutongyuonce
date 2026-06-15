@@ -2,7 +2,6 @@
 
 **Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CUHK/HKUST**
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact)
 
 Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](https://github.com/wutongyuonce/Claude-Code-Source)
