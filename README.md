@@ -2,6 +2,7 @@
 
 **Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CUHK/HKUST**
 
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact)
 
 Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](https://github.com/wutongyuonce/Claude-Code-Source)
@@ -18,7 +19,7 @@ Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](htt
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  18+   | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
-| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  39+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
+| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  40+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
 | [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |     | 📖 Pi (pi-mono) 的深度解析与源码逐行解读 |
 | [pi-repomap](https://github.com/wutongyuonce/pi-repomap) |     | 🔌 Pi 的代码库结构化感知 extension — 支持 Tree-sitter 多语言符号提取，并利用入度排名衡量重要性 |
 | [PageIndex-MCP](https://github.com/wutongyuonce/PageIndex-MCP) |  8+   | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的本地MCP｜Local MCP based on [PageIndex](https://github.com/VectifyAI/PageIndex) |
