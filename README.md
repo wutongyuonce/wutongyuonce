@@ -29,5 +29,5 @@ Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](htt
 
 | Project                                               |                         PR                         | What I Fixed                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (2.1k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (2.1k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | Eliminate duplicate wiki-tool implementations in skill/tools.py |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (2.7k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (2.7k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | Eliminate duplicate wiki-tool implementations in skill/tools.py |
