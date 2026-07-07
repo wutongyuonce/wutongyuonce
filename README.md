@@ -5,7 +5,7 @@
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true)
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact)
 
-Currently studying [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](https://github.com/wutongyuonce/Claude-Code-Source)
+Currently working on [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](https://github.com/wutongyuonce/Claude-Code-Source)
 
 ## Projects
 
