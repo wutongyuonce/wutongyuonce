@@ -12,15 +12,15 @@ Currently working on [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](h
 ### 博客
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  24+   | 🌐 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro blog theme |
+| [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  25+   | 🌐 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro blog theme |
 
 ### Agent
 
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21+   | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
-| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  47+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
-| [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  2+  | 📖 Pi (pi-mono) 的深度解析与源码逐行解读 |
+| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  48+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
+| [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  3+  | 📖 Pi (pi-mono) 的深度解析与源码逐行解读 |
 | [pi-repomap](https://github.com/wutongyuonce/pi-repomap) |     | 🔌 Pi 的代码库结构化感知 extension — 支持 Tree-sitter 多语言符号提取，并利用入度排名衡量重要性 |
 | [PageIndex-MCP](https://github.com/wutongyuonce/PageIndex-MCP) |  8+   | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的本地MCP｜Local MCP based on [PageIndex](https://github.com/VectifyAI/PageIndex) |
 | [AI-Meeting](https://github.com/wutongyuonce/AI-Meeting)     |       | 🧑🏻‍💻 简历分析、模拟面试 Agent \| Resume Analysis, Mock Interview Agent |
