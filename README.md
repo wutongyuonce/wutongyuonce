@@ -29,6 +29,6 @@ Currently working on [Pi](https://github.com/earendil-works/pi) / [ClaudeCode](h
 
 | Project                                               |                         PR/Issue                         | What I Fixed                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [pi](https://github.com/earendil-works/pi) (68.2k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (2.9k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (2.9k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | Eliminate duplicate wiki-tool implementations in skill/tools.py |
+| [pi](https://github.com/earendil-works/pi) (69.6k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (3k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (3k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | Eliminate duplicate wiki-tool implementations in skill/tools.py |
