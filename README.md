@@ -24,6 +24,11 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21+   | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
 
+### APP（macos）
+| Project                                                      | Stars | What it does                                                 |
+| ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
+| [repo-mirror](https://github.com/wutongyuonce/repo-mirror) |     | 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree |
+
 ## Open Source Contributions
 
 | Project                                               |                         PR/Issue                         | What I Fixed                                                 |
