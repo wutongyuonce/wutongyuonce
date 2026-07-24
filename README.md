@@ -18,7 +18,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  50+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
+| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  51+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
 | [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  11+  | 📖 Pi (pi-mono) 的深度解析与源码逐行解读 |
 | [pi-repomap](https://github.com/wutongyuonce/pi-repomap) |     | 🔌 Pi 的代码库结构化感知 extension — 支持 Tree-sitter 多语言符号提取，并利用入度排名衡量重要性 |
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
@@ -27,7 +27,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 ### APP（macos）
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |     | 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree |
+| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  3+  | 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree |
 
 ## Open Source Contributions
 
