@@ -14,18 +14,24 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  26+  | 🌐 一个精简的 Antfu 风格 Astro 博客主题｜A minimalistic Antfu-style Astro blog theme |
 
-### Agent
+### Agent 相关
 
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  53+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
-| [Trajex](https://github.com/wutongyuonce/Trajex)         |    | 数万行散落的 Claude Code、Codex 与 Kimi Code JSONL 会话，索引至同一个 SQLite 中： Agent 可通过 CLI /Skill 实现毫秒级查询，用户可通过 App 直观浏览｜Past Claude Code, Codex, and Kimi Code sessions -- queryable by your agent, browsable by you |
+| [Trajex](https://github.com/wutongyuonce/Trajex)         |  12+  | 数万行散落的 Claude Code、Codex 与 Kimi Code JSONL 会话，索引至同一个 SQLite 中： Agent 可通过 CLI /Skill 实现毫秒级查询，用户可通过 App 直观浏览｜Past Claude Code, Codex, and Kimi Code sessions -- queryable by your agent, browsable by you |
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21+  | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
-| [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  11+  | 📖 Pi (pi-mono) 的深度解析与源码逐行解读 |
 | [skills](https://github.com/wutongyuonce/skills) |    | 我的个人 AI Agent Skills 集合，覆盖开发、设计、研究 |
+
+#### pi 相关
+
+| Project                                                      | Stars | What it does                                                 |
+| ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
+| [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  11+  | 📖 Pi (pi-mono) 的深度解析与源码逐行解读 |
 | [pi-extensions](https://github.com/wutongyuonce/pi-extensions) |    | 个人 pi-extensions 集合，汇集了自己开发的和社区中优秀的 Pi Agent 扩展插件|
 | [pi-repomap](https://github.com/wutongyuonce/pi-repomap) |    | 🔌 Pi 的代码库结构化感知 extension — 支持 Tree-sitter 多语言符号提取，并利用入度排名衡量重要性 |
+| [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) |  11+  | 🔌 Pi 的上下文卸载扩展：将过大的工具结果移到会话 sidecar 文件中，在需要时可用原生 `read` 取回，并在结果被模型使用后从后续请求中移除正文 |
 
 ### APP（macos）
 | Project                                                      | Stars | What it does                                                 |
@@ -34,7 +40,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 ## Open Source Contributions
 
-| Project                                               |                         PR/Issue                         | What I Fixed                                                 |
+| Project                                               |                         PR/Issue                         | Overview                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
 | [pi](https://github.com/earendil-works/pi) (77.4k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.2k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
