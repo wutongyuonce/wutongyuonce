@@ -36,15 +36,15 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 ### APP（macos）
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  37+  | 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree |
+| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  39+  | 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree |
 
 ## Open Source Contributions
 
 | Project                                               |                         PR/Issue                         | Overview/Related Commit                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [pi](https://github.com/earendil-works/pi) (77.4k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
+| [pi](https://github.com/earendil-works/pi) (81.3k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.2k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.2k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | Eliminate duplicate wiki-tool implementations in skill/tools.py |
-| [obelisk](https://github.com/tommy0103/obelisk) (238★) | [#8](https://github.com/tommy0103/obelisk/pull/8) | feat(app): preview and safely open local Markdown file links 预览并安全打开本地 Markdown 文件链接 |
+| [obelisk](https://github.com/tommy0103/obelisk) (253★) | [#8](https://github.com/tommy0103/obelisk/pull/8) | feat(app): preview and safely open local Markdown file links 预览并安全打开本地 Markdown 文件链接 |
 | [pi-atelier](https://github.com/michaelmjhhhh/pi-atelier) (172★) | [#3](https://github.com/michaelmjhhhh/pi-atelier/pull/3) | [feat: add live Display Settings Workspace](https://github.com/michaelmjhhhh/pi-atelier/pull/12) |
 
