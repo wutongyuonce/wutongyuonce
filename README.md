@@ -31,6 +31,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  11+  | 📖 Pi (pi-mono) 的深度解析与源码逐行解读 |
 | [pi-extensions](https://github.com/wutongyuonce/pi-extensions) |    | 个人 pi-extensions 集合，汇集了自己开发的和社区中优秀的 Pi Agent 扩展插件|
 | [pi-repomap](https://github.com/wutongyuonce/pi-repomap) |    | 🔌 Pi 的代码库结构化感知 extension — 支持 Tree-sitter 多语言符号提取，并利用入度排名衡量重要性 |
+| [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) |    | Claude Code Like Dynamic Workflows Extension for Pi |
 | [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) |  11+  | 🔌 Pi 的上下文卸载扩展：将过大的工具结果移到会话 sidecar 文件中，在需要时可用原生 `read` 取回，并在结果被模型使用后从后续请求中移除正文 |
 
 ### APP（macos）
