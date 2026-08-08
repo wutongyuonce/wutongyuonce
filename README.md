@@ -43,11 +43,11 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 | Project                                               |                         PR/Issue                         | Overview/Related Commit                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [pi](https://github.com/earendil-works/pi) (83.4k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
+| [pi](https://github.com/earendil-works/pi) (85.6k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.3k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.3k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | Eliminate duplicate wiki-tool implementations in skill/tools.py |
-| [obelisk](https://github.com/tommy0103/obelisk) (292★) | [#8](https://github.com/tommy0103/obelisk/pull/8) | [feat(app): preview and safely open local Markdown file links](https://github.com/tommy0103/obelisk/commit/c3751f0f6bb312d08e0f7a1b8888ee7dcb46fb6a) |
-| [obelisk](https://github.com/tommy0103/obelisk) (292★) | [#29](https://github.com/tommy0103/obelisk/pull/29) | fix: preserve utf8 across JSONL buffer boundaries 保留跨 JSONL 缓冲区边界的 UTF-8 字符 |
-| [pi-atelier](https://github.com/michaelmjhhhh/pi-atelier) (172★) | [#3](https://github.com/michaelmjhhhh/pi-atelier/pull/3) | [feat: add live Display Settings Workspace](https://github.com/michaelmjhhhh/pi-atelier/pull/12) |
-| [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (172★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | feat: support Pi Coding Agent 0.84.1 |
+| [obelisk](https://github.com/tommy0103/obelisk) (303★) | [#8](https://github.com/tommy0103/obelisk/pull/8) | [feat(app): preview and safely open local Markdown file links](https://github.com/tommy0103/obelisk/commit/c3751f0f6bb312d08e0f7a1b8888ee7dcb46fb6a) |
+| [obelisk](https://github.com/tommy0103/obelisk) (303★) | [#29](https://github.com/tommy0103/obelisk/pull/29) | fix: preserve utf8 across JSONL buffer boundaries 保留跨 JSONL 缓冲区边界的 UTF-8 字符 |
+| [pi-atelier](https://github.com/michaelmjhhhh/pi-atelier) (228★) | [#3](https://github.com/michaelmjhhhh/pi-atelier/pull/3) | [feat: add live Display Settings Workspace](https://github.com/michaelmjhhhh/pi-atelier/pull/12) |
+| [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (407★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | feat: support Pi Coding Agent 0.84.1 |
 
