@@ -29,9 +29,9 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  11+  | 📖 Pi (pi-mono) 的深度解析与源码逐行解读 |
-| [pi-extensions](https://github.com/wutongyuonce/pi-extensions) |    | 个人 pi-extensions 集合，汇集了自己开发的和社区中优秀的 Pi Agent 扩展插件|
+| [pi-extensions](https://github.com/wutongyuonce/pi-extensions) |    | 🔌 个人 pi-extensions 集合，汇集了自己开发的和社区中优秀的 Pi Agent 扩展插件|
 | [pi-repomap](https://github.com/wutongyuonce/pi-repomap) |    | 🔌 Pi 的代码库结构化感知 extension — 支持 Tree-sitter 多语言符号提取，并利用入度排名衡量重要性 |
-| [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) |    | Claude Code Like Dynamic Workflows Extension for Pi |
+| [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) |    | 🔌 Claude Code Like Dynamic Workflows Extension for Pi |
 | [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) |  11+  | 🔌 Pi 的上下文卸载扩展：将过大的工具结果移到会话 sidecar 文件中，在需要时可用原生 `read` 取回，并在结果被模型使用后从后续请求中移除正文 |
 
 ### APP（macos）
@@ -44,10 +44,10 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | Project                                               |                         PR/Issue                         | Overview/Related Commit                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
 | [pi](https://github.com/earendil-works/pi) (85.6k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.3k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.3k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | Eliminate duplicate wiki-tool implementations in skill/tools.py |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.3k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.3k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
 | [obelisk](https://github.com/tommy0103/obelisk) (303★) | [#8](https://github.com/tommy0103/obelisk/pull/8) | [feat(app): preview and safely open local Markdown file links](https://github.com/tommy0103/obelisk/commit/c3751f0f6bb312d08e0f7a1b8888ee7dcb46fb6a) |
 | [obelisk](https://github.com/tommy0103/obelisk) (303★) | [#29](https://github.com/tommy0103/obelisk/pull/29) | fix: preserve utf8 across JSONL buffer boundaries 保留跨 JSONL 缓冲区边界的 UTF-8 字符 |
 | [pi-atelier](https://github.com/michaelmjhhhh/pi-atelier) (228★) | [#3](https://github.com/michaelmjhhhh/pi-atelier/pull/3) | [feat: add live Display Settings Workspace](https://github.com/michaelmjhhhh/pi-atelier/pull/12) |
-| [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (407★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | feat: support Pi Coding Agent 0.84.1 |
+| [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (407★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
 
