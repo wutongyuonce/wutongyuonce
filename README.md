@@ -2,8 +2,10 @@
 
 **Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CUHK/HKUST**
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=true" height="185px">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=default&hide_border=true#gh-light-mode-only" height="185px">
+</div>
 
 Currently working on [pi](https://github.com/earendil-works/pi)
 
