@@ -1,11 +1,19 @@
-<img src="./signature_Wutong%20Yu_animated.svg" width="300" alt="签名动画">
+<img src="./signature_Wutong%20Yu_animated.svg" width="250" align="left" style="margin-right: 20px;" />
 
-**Full Stack & Agent Engineer | IoT @Hohai University| Applying for MS CS @ HKU/CUHK/HKUST**
+**Full Stack & Agent Engineer**  
+IoT @ Hohai University  
+Applying for MS CS @ HKU / CUHK / HKUST
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=true" height="185px">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=default&hide_border=true#gh-light-mode-only" height="185px">
+<div align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=default&hide_border=false#gh-light-mode-only" height="185px">
 </div>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,md,docker,c,html,css,javascript,typescript,nodejs,vue,react,electron,java,python,spring,fastapi,mysql,sqlite,redis,kafka" />
+  </a>
+</p>
 
 Currently working on [pi](https://github.com/earendil-works/pi)
 
