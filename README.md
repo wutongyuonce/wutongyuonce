@@ -28,7 +28,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  56+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
+| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  58+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
 | [Trajex](https://github.com/wutongyuonce/Trajex)         |  60+  | 数万行散落的 Claude Code、Codex 与 Kimi Code JSONL 会话，索引至同一个 SQLite 中： Agent 可通过 CLI /Skill 实现毫秒级查询，用户可通过 App 直观浏览｜Past Claude Code, Codex, and Kimi Code sessions -- queryable by your agent, browsable by you |
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21+  | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
@@ -47,14 +47,14 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 ### APP（macos）
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  60+  | 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree |
+| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  65+  | 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree |
 
 ## Main Contributions
 
 | Project                                               |                         PR/Issue                         | Overview/Related Commit                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [pi](https://github.com/earendil-works/pi) (85.6k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.3k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.3k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
-| [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (407★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
+| [pi](https://github.com/earendil-works/pi) (90.1k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
+| [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (472★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
 
