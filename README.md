@@ -29,7 +29,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  58+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
-| [Trajex](https://github.com/wutongyuonce/Trajex)         |  62+  | 数万行散落的 Claude Code、Codex 与 Kimi Code JSONL 会话，索引至同一个 SQLite 中： Agent 可通过 CLI /Skill 实现毫秒级查询，用户可通过 App 直观浏览｜Past Claude Code, Codex, and Kimi Code sessions -- queryable by your agent, browsable by you |
+| [Trajex](https://github.com/wutongyuonce/Trajex)         |  63+  | 数万行散落的 Claude Code、Codex 与 Kimi Code JSONL 会话，索引至同一个 SQLite 中： Agent 可通过 CLI /Skill 实现毫秒级查询，用户可通过 App 直观浏览｜Past Claude Code, Codex, and Kimi Code sessions -- queryable by your agent, browsable by you |
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21+  | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
 | [skills](https://github.com/wutongyuonce/skills) |    | 我的个人 AI Agent Skills 集合，覆盖开发、设计、研究 |
@@ -47,7 +47,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 ### APP（macos）
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  66+  | 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree |
+| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  67+  | 一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树｜A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree |
 
 ## Main Contributions
 
