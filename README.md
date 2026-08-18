@@ -60,3 +60,5 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | [memU](https://github.com/NevaMind-AI/memU) (14.3k★) | [#643](https://github.com/NevaMind-AI/memU/pull/643) | [fix(hosts): write instructions atomically](https://github.com/NevaMind-AI/memU/commit/aec07c3bd001e560a9f20e77cbc0cee2f954af36) |
 | [OpenViking](https://github.com/volcengine/OpenViking) (29k★) | [#4064](https://github.com/volcengine/OpenViking/pull/4064) | [fix(bot): normalize cron one-shot datetimes](https://github.com/volcengine/OpenViking/commit/492235de86178e5e15597809c1e5429bbaa216ca) |
 | [OpenViking](https://github.com/volcengine/OpenViking) (29k★) | [#4087](https://github.com/volcengine/OpenViking/pull/4087) | [test: fix root collection boundary and CLI fixture pollution](https://github.com/volcengine/OpenViking/commit/eaa2c4a7730658a86520af7b47c68b67c7952832) |
+| [OpenViking](https://github.com/volcengine/OpenViking) (29k★) | [#4089](https://github.com/volcengine/OpenViking/pull/4089) | [chore: remove dead git tuning knobs and duplicate release/frontend files](https://github.com/volcengine/OpenViking/commit/7e7ad2e1f6f35a11646620618b2411f0a3905ecf) |
+
