@@ -5,8 +5,8 @@ IoT @ Hohai University
 Applying for MS CS @ HKU / CUHK / HKUST
 
 <div align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=default&hide_border=false#gh-light-mode-only" height="185px">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=default&hide_border=false#gh-light-mode-only" height="185px">
 </div>
 
 <p align="left">
@@ -53,14 +53,14 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 | Project                                               |                         PR/Issue                         | Overview/Related Commit                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [pi](https://github.com/earendil-works/pi) (90.1k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
+| [pi](https://github.com/earendil-works/pi) (93.1k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
 | [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (472★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
 | [memU](https://github.com/NevaMind-AI/memU) (14.3k★) | [#643](https://github.com/NevaMind-AI/memU/pull/643) | [fix(hosts): write instructions atomically](https://github.com/NevaMind-AI/memU/commit/aec07c3bd001e560a9f20e77cbc0cee2f954af36) |
-| [OpenViking](https://github.com/volcengine/OpenViking) (29k★) | [#4064](https://github.com/volcengine/OpenViking/pull/4064) | [fix(bot): normalize cron one-shot datetimes](https://github.com/volcengine/OpenViking/commit/492235de86178e5e15597809c1e5429bbaa216ca) |
-| [OpenViking](https://github.com/volcengine/OpenViking) (29k★) | [#4085](https://github.com/volcengine/OpenViking/pull/4085) | [fix(cli): exec npm shebang wrappers instead of skipping all shebang files](https://github.com/volcengine/OpenViking/commit/d436baa23c83938b22bb0aab08b0ce48568b5ff4) |
-| [OpenViking](https://github.com/volcengine/OpenViking) (29k★) | [#4087](https://github.com/volcengine/OpenViking/pull/4087) | [test: fix root collection boundary and CLI fixture pollution](https://github.com/volcengine/OpenViking/commit/eaa2c4a7730658a86520af7b47c68b67c7952832) |
-| [OpenViking](https://github.com/volcengine/OpenViking) (29k★) | [#4089](https://github.com/volcengine/OpenViking/pull/4089) | [chore: remove dead git tuning knobs and duplicate release/frontend files](https://github.com/volcengine/OpenViking/commit/7e7ad2e1f6f35a11646620618b2411f0a3905ecf) |
+| [OpenViking](https://github.com/volcengine/OpenViking) (29.4k★) | [#4064](https://github.com/volcengine/OpenViking/pull/4064) | [fix(bot): normalize cron one-shot datetimes](https://github.com/volcengine/OpenViking/commit/492235de86178e5e15597809c1e5429bbaa216ca) |
+| [OpenViking](https://github.com/volcengine/OpenViking) (29.4k★) | [#4085](https://github.com/volcengine/OpenViking/pull/4085) | [fix(cli): exec npm shebang wrappers instead of skipping all shebang files](https://github.com/volcengine/OpenViking/commit/d436baa23c83938b22bb0aab08b0ce48568b5ff4) |
+| [OpenViking](https://github.com/volcengine/OpenViking) (29.4k★) | [#4087](https://github.com/volcengine/OpenViking/pull/4087) | [test: fix root collection boundary and CLI fixture pollution](https://github.com/volcengine/OpenViking/commit/eaa2c4a7730658a86520af7b47c68b67c7952832) |
+| [OpenViking](https://github.com/volcengine/OpenViking) (29.4k★) | [#4089](https://github.com/volcengine/OpenViking/pull/4089) | [chore: remove dead git tuning knobs and duplicate release/frontend files](https://github.com/volcengine/OpenViking/commit/7e7ad2e1f6f35a11646620618b2411f0a3905ecf) |
 
 
