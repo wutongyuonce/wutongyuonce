@@ -28,8 +28,9 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  58+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
+| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  59+  | 🤖 用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜Building a Complete AI Programming Assistant System from Scratch with Python: Unified LLM Invocation + Agent Orchestration Kernel + Feishu IM Integration |
 | [Trajex](https://github.com/wutongyuonce/Trajex)         |  63+  | 数万行散落的 Claude Code、Codex 与 Kimi Code JSONL 会话，索引至同一个 SQLite 中： Agent 可通过 CLI /Skill 实现毫秒级查询，用户可通过 App 直观浏览｜Past Claude Code, Codex, and Kimi Code sessions -- queryable by your agent, browsable by you |
+| [Replica](https://github.com/wutongyuonce/Replica) |     | Memory Layer for AI, FastAPI + React + PostgresSQL、pgvector |
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21+  | 一个可插拔可观测的模块化 RAG MCP 框架｜A pluggable and observable modular RAG MCP framework |
 | [skills](https://github.com/wutongyuonce/skills) |    | 我的个人 AI Agent Skills 集合，覆盖开发、设计、研究 |
@@ -42,7 +43,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | [pi-extensions](https://github.com/wutongyuonce/pi-extensions) |    | 🔌 个人 pi-extensions 集合，汇集了自己开发的和社区中优秀的 Pi Agent 扩展插件|
 | [pi-repomap](https://github.com/wutongyuonce/pi-repomap) |    | 🔌 Pi 的代码库结构化感知 extension — 支持 Tree-sitter 多语言符号提取，并利用入度排名衡量重要性 |
 | [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) |    | 🔌 Claude Code Like Dynamic Workflows Extension for Pi |
-| [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) |  11+  | 🔌 Pi 的上下文卸载扩展：将过大的工具结果移到会话 sidecar 文件中，在需要时可用原生 `read` 取回，并在结果被模型使用后从后续请求中移除正文 |
+| [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) |  11+  | 🔌 Pi 的上下文卸载 Extension：将过大的工具结果移到会话 sidecar 文件中，需要时可取回 |
 
 ### APP（macos）
 | Project                                                      | Stars | What it does                                                 |
