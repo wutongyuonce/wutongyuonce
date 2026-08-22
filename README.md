@@ -52,7 +52,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 ## Main Contributions
 
-| Project                                               |                         PR/Issue                         | Overview/Related Commit                                                 |
+| Project                                               |                         PR                         | Commit Overview                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
 | [pi](https://github.com/earendil-works/pi) (94.8k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
