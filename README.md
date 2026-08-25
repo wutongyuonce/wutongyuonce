@@ -52,10 +52,10 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 | Project                                               |                         PR                         | Commit Overview                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [pi](https://github.com/earendil-works/pi) (97k★) | [#8571](https://github.com/earendil-works/pi/issues/8571) | [JPEG EXIF orientation is ignored when XMP APP1 comes first]() |
-| [pi](https://github.com/earendil-works/pi) (97k★) | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares]() |
 | [pi](https://github.com/earendil-works/pi) (97k★) | [#8577](https://github.com/earendil-works/pi/issues/8577) | [Late partial tool image conversion can overwrite the final image]() |
-| [pi](https://github.com/earendil-works/pi) (97k★) | [#8579](https://github.com/earendil-works/pi/issues/8579) | [sendUserMessage reorders interleaved text and image content]() |
+| [pi](https://github.com/earendil-works/pi) (97k★) | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments]() |
+| [pi](https://github.com/earendil-works/pi) (97k★) | [#8615](https://github.com/earendil-works/pi/pull/8615) | [fix(coding-agent): preserve interleaved user content]() |
+| [pi](https://github.com/earendil-works/pi) (97k★) | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares]() |
 | [pi](https://github.com/earendil-works/pi) (97k★) | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
 | [pi](https://github.com/earendil-works/pi) (97k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
