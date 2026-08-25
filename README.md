@@ -52,12 +52,12 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 | Project                                               |                         PR                         | Commit Overview                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [pi](https://github.com/earendil-works/pi) (95.8k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
-| [pi](https://github.com/earendil-works/pi) (95.8k★) | [#8571](https://github.com/earendil-works/pi/issues/8571) | [JPEG EXIF orientation is ignored when XMP APP1 comes first]() |
-| [pi](https://github.com/earendil-works/pi) (95.8k★) | [#8574](https://github.com/earendil-works/pi/issues/8574) | [Concurrent /share commands can upload another session]() |
-| [pi](https://github.com/earendil-works/pi) (95.8k★) | [#8577](https://github.com/earendil-works/pi/issues/8577) | [Late partial tool image conversion can overwrite the final image]() |
-| [pi](https://github.com/earendil-works/pi) (95.8k★) | [#8579](https://github.com/earendil-works/pi/issues/8579) | [sendUserMessage reorders interleaved text and image content]() |
-| [pi](https://github.com/earendil-works/pi) (95.8k★) | [#8581](https://github.com/earendil-works/pi/issues/8581) | [Image-only queued messages leave pendingMessageCount stuck after delivery]() |
+| [pi](https://github.com/earendil-works/pi) (97k★) | [#8571](https://github.com/earendil-works/pi/issues/8571) | [JPEG EXIF orientation is ignored when XMP APP1 comes first]() |
+| [pi](https://github.com/earendil-works/pi) (97k★) | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares]() |
+| [pi](https://github.com/earendil-works/pi) (97k★) | [#8577](https://github.com/earendil-works/pi/issues/8577) | [Late partial tool image conversion can overwrite the final image]() |
+| [pi](https://github.com/earendil-works/pi) (97k★) | [#8579](https://github.com/earendil-works/pi/issues/8579) | [sendUserMessage reorders interleaved text and image content]() |
+| [pi](https://github.com/earendil-works/pi) (97k★) | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
+| [pi](https://github.com/earendil-works/pi) (97k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
 | [deer-flow](https://github.com/bytedance/deer-flow) (80.8k★) | [#4951](https://github.com/bytedance/deer-flow/pull/4951) | [fix(frontend): avoid recreating browser stream after reconnect](https://github.com/bytedance/deer-flow/commit/6688d01c8fe0553253abe5da7469e564a44c2957) |
