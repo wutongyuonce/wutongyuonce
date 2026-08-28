@@ -29,7 +29,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  60★  | Building a Complete AI Programming Assistant System from Scratch with Python｜用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜ |
-| [Trajex](https://github.com/wutongyuonce/Trajex)         |  72★  | Past Claude Code, Codex, and Pi sessions -- queryable by your agent, browsable by you |
+| [Trajex](https://github.com/wutongyuonce/Trajex)         |  90★  | Past Claude Code, Codex, and Pi sessions -- queryable by your agent, browsable by you |
 | [Replica](https://github.com/wutongyuonce/Replica) |     | Memory Layer for AI, FastAPI + React + PostgresSQL、pgvector |
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21★  | A pluggable and observable modular RAG MCP framework｜一个可插拔可观测的模块化 RAG MCP 框架 |
@@ -37,7 +37,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  11★  | pi-coding-agent 深度解析与源码解读 |
+| [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  13★  | pi-coding-agent 深度解析与源码解读 |
 | [pi-extensions](https://github.com/wutongyuonce/pi-extensions) |    | 个人 pi-extensions 集合 |
 | [pi-repomap](https://github.com/wutongyuonce/pi-repomap) |    | Pi 的 Tree-sitter 代码库结构化感知 extension |
 | [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) |    | Claude Code Like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) Extension for Pi |
@@ -46,27 +46,27 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 ### APP
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  72★  | A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree｜一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树 |
+| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  71★  | A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree｜一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树 |
 
 ## Open Contributions
 
 | Project                                               |                         PR                         | Commit Overview                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [pi](https://github.com/earendil-works/pi) (97k★) | [#8577](https://github.com/earendil-works/pi/issues/8577) | [Late partial tool image conversion can overwrite the final image]() |
-| [pi](https://github.com/earendil-works/pi) (97k★) | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments]() |
-| [pi](https://github.com/earendil-works/pi) (97k★) | [#8615](https://github.com/earendil-works/pi/pull/8615) | [fix(coding-agent): preserve interleaved user content]() |
-| [pi](https://github.com/earendil-works/pi) (97k★) | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares]() |
-| [pi](https://github.com/earendil-works/pi) (97k★) | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
-| [pi](https://github.com/earendil-works/pi) (97k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
-| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.8k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
-| [deer-flow](https://github.com/bytedance/deer-flow) (80.8k★) | [#4951](https://github.com/bytedance/deer-flow/pull/4951) | [fix(frontend): avoid recreating browser stream after reconnect](https://github.com/bytedance/deer-flow/commit/6688d01c8fe0553253abe5da7469e564a44c2957) |
-| [deer-flow](https://github.com/bytedance/deer-flow) (80.8k★) | [#4952](https://github.com/bytedance/deer-flow/pull/4952) | [fix(agents): do not hide invalid config with file fallback]() |
-| [deer-flow](https://github.com/bytedance/deer-flow) (80.8k★) | [#4972](https://github.com/bytedance/deer-flow/pull/4972) | [fix(skills): refresh user storage after config reload](https://github.com/bytedance/deer-flow/commit/013dca6352b639447f5c885b03c431fa9782598f) |
-| [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (486★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
-| [memU](https://github.com/NevaMind-AI/memU) (14.3k★) | [#643](https://github.com/NevaMind-AI/memU/pull/643) | [fix(hosts): write instructions atomically](https://github.com/NevaMind-AI/memU/commit/aec07c3bd001e560a9f20e77cbc0cee2f954af36) |
-| [memU](https://github.com/NevaMind-AI/memU) (14.3k★) | [#660](https://github.com/NevaMind-AI/memU/pull/660) | [feat(claude-code): verify Cowork source composition](https://github.com/NevaMind-AI/memU/commit/42f566aeb46e72bfb5b1274b4bcafc922ab89066) |
-| [memU](https://github.com/NevaMind-AI/memU) (14.3k★) | [#663](https://github.com/NevaMind-AI/memU/pull/663) | [fix(agentic): validate RecallFile pagination inputs](https://github.com/NevaMind-AI/memU/commit/abb11480e69cec9ca35d954b1c1ffc83ef11c100) |
+| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions - #8743]() |
+| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments]() |
+| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8615](https://github.com/earendil-works/pi/pull/8615) | [fix(coding-agent): preserve interleaved user content]() |
+| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares]() |
+| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
+| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.9k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
+| [OpenKB](https://github.com/VectifyAI/OpenKB) (3.9k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
+| [deer-flow](https://github.com/bytedance/deer-flow) (81k★) | [#4951](https://github.com/bytedance/deer-flow/pull/4951) | [fix(frontend): avoid recreating browser stream after reconnect](https://github.com/bytedance/deer-flow/commit/6688d01c8fe0553253abe5da7469e564a44c2957) |
+| [deer-flow](https://github.com/bytedance/deer-flow) (81k★) | [#4952](https://github.com/bytedance/deer-flow/pull/4952) | [fix(agents): do not hide invalid config with file fallback]() |
+| [deer-flow](https://github.com/bytedance/deer-flow) (81k★) | [#4972](https://github.com/bytedance/deer-flow/pull/4972) | [fix(skills): refresh user storage after config reload](https://github.com/bytedance/deer-flow/commit/013dca6352b639447f5c885b03c431fa9782598f) |
+| [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (510★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
+| [memU](https://github.com/NevaMind-AI/memU) (14.4k★) | [#643](https://github.com/NevaMind-AI/memU/pull/643) | [fix(hosts): write instructions atomically](https://github.com/NevaMind-AI/memU/commit/aec07c3bd001e560a9f20e77cbc0cee2f954af36) |
+| [memU](https://github.com/NevaMind-AI/memU) (14.4k★) | [#660](https://github.com/NevaMind-AI/memU/pull/660) | [feat(claude-code): verify Cowork source composition](https://github.com/NevaMind-AI/memU/commit/42f566aeb46e72bfb5b1274b4bcafc922ab89066) |
+| [memU](https://github.com/NevaMind-AI/memU) (14.4k★) | [#663](https://github.com/NevaMind-AI/memU/pull/663) | [fix(agentic): validate RecallFile pagination inputs](https://github.com/NevaMind-AI/memU/commit/abb11480e69cec9ca35d954b1c1ffc83ef11c100) |
 | [OpenViking](https://github.com/volcengine/OpenViking) (32.3k★) | [#4064](https://github.com/volcengine/OpenViking/pull/4064) | [fix(bot): normalize cron one-shot datetimes](https://github.com/volcengine/OpenViking/commit/492235de86178e5e15597809c1e5429bbaa216ca) |
 | [OpenViking](https://github.com/volcengine/OpenViking) (32.3k★) | [#4081](https://github.com/volcengine/OpenViking/pull/4081) | [fix(privacy): serialize config mutations under pathlock and propagate storage errors]() |
 | [OpenViking](https://github.com/volcengine/OpenViking) (32.3k★) | [#4083](https://github.com/volcengine/OpenViking/pull/4083) | [fix(ragfs): return config error instead of panicking when pathlock manager is missing](https://github.com/volcengine/OpenViking/commit/d88967aaeb969106ed3e77249bb3ef8248a03ebb) |
