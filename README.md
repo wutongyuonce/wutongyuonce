@@ -29,7 +29,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  60★  | Building a Complete AI Programming Assistant System from Scratch with Python｜用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜ |
-| [Trajex](https://github.com/wutongyuonce/Trajex)         |  90★  | Past Claude Code, Codex, and Pi sessions -- queryable by your agent, browsable by you |
+| [Trajex](https://github.com/wutongyuonce/Trajex)         |  98★  | Past Claude Code, Codex, and Pi sessions -- queryable by your agent, browsable by you |
 | [Replica](https://github.com/wutongyuonce/Replica) |     | Memory Layer for AI, FastAPI + React + PostgresSQL、pgvector |
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21★  | A pluggable and observable modular RAG MCP framework｜一个可插拔可观测的模块化 RAG MCP 框架 |
@@ -46,18 +46,18 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 ### APP
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  71★  | A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree｜一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树 |
+| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  72★  | A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree｜一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树 |
 
 ## Open Contributions
 
 | Project                                               |                         PR                         | Commit Overview                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
-| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions - #8743]() |
-| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments]() |
-| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8615](https://github.com/earendil-works/pi/pull/8615) | [fix(coding-agent): preserve interleaved user content]() |
-| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares]() |
-| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
-| [pi](https://github.com/earendil-works/pi) (98.5k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
+| [pi](https://github.com/earendil-works/pi) (99k★) | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions - #8743]() |
+| [pi](https://github.com/earendil-works/pi) (99k★) | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments]() |
+| [pi](https://github.com/earendil-works/pi) (99k★) | [#8615](https://github.com/earendil-works/pi/pull/8615) | [fix(coding-agent): preserve interleaved user content]() |
+| [pi](https://github.com/earendil-works/pi) (99k★) | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares]() |
+| [pi](https://github.com/earendil-works/pi) (99k★) | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
+| [pi](https://github.com/earendil-works/pi) (99k★) | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.9k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.9k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
 | [deer-flow](https://github.com/bytedance/deer-flow) (81k★) | [#4951](https://github.com/bytedance/deer-flow/pull/4951) | [fix(frontend): avoid recreating browser stream after reconnect](https://github.com/bytedance/deer-flow/commit/6688d01c8fe0553253abe5da7469e564a44c2957) |
