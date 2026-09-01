@@ -29,7 +29,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  60★  | Building a Complete AI Programming Assistant System from Scratch with Python｜用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜ |
-| [Trajex](https://github.com/wutongyuonce/Trajex)         |  98★  | Past Claude Code, Codex, and Pi sessions -- queryable by your agent, browsable by you |
+| [Trajex](https://github.com/wutongyuonce/Trajex)         |  114★  | Past Claude Code, Codex, and Pi sessions -- queryable by your agent, browsable by you |
 | [Replica](https://github.com/wutongyuonce/Replica) |     | Memory Layer for AI, FastAPI + React + PostgresSQL、pgvector |
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21★  | A pluggable and observable modular RAG MCP framework｜一个可插拔可观测的模块化 RAG MCP 框架 |
@@ -46,7 +46,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 ### APP
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  72★  | A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree｜一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树 |
+| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  74★  | A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree｜一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树 |
 
 ## Open Contributions
 
@@ -68,6 +68,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | [memU](https://github.com/NevaMind-AI/memU) (14.4k★) | [#660](https://github.com/NevaMind-AI/memU/pull/660) | [feat(claude-code): verify Cowork source composition](https://github.com/NevaMind-AI/memU/commit/42f566aeb46e72bfb5b1274b4bcafc922ab89066) |
 | [memU](https://github.com/NevaMind-AI/memU) (14.4k★) | [#663](https://github.com/NevaMind-AI/memU/pull/663) | [fix(agentic): validate RecallFile pagination inputs](https://github.com/NevaMind-AI/memU/commit/abb11480e69cec9ca35d954b1c1ffc83ef11c100) |
 | [memU](https://github.com/NevaMind-AI/memU) (14.4k★) | [#675](https://github.com/NevaMind-AI/memU/pull/675) | [feat(hosts): add pi coding agent adapter]() |
+| [memU](https://github.com/NevaMind-AI/memU) (14.4k★) | [#679](https://github.com/NevaMind-AI/memU/pull/679) | [fix(memory): guard and reindex embedding spaces]() |
 | [OpenViking](https://github.com/volcengine/OpenViking) (32.3k★) | [#4064](https://github.com/volcengine/OpenViking/pull/4064) | [fix(bot): normalize cron one-shot datetimes](https://github.com/volcengine/OpenViking/commit/492235de86178e5e15597809c1e5429bbaa216ca) |
 | [OpenViking](https://github.com/volcengine/OpenViking) (32.3k★) | [#4081](https://github.com/volcengine/OpenViking/pull/4081) | [fix(privacy): serialize config mutations under pathlock and propagate storage errors]() |
 | [OpenViking](https://github.com/volcengine/OpenViking) (32.3k★) | [#4083](https://github.com/volcengine/OpenViking/pull/4083) | [fix(ragfs): return config error instead of panicking when pathlock manager is missing](https://github.com/volcengine/OpenViking/commit/d88967aaeb969106ed3e77249bb3ef8248a03ebb) |
