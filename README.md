@@ -1,6 +1,6 @@
 <img src="./signature_Wutong%20Yu_animated.svg" width="250" align="left" style="margin-right: 20px;" />
 
-**Agent & AI Native Infra**
+**AI & Agent & Infra**
 [![X @Yu](https://img.shields.io/badge/X-@Yu-000?style=flat&logo=x)](https://x.com/Yu2002964143523)  
 
 IoT @ [HHU](https://www.hhu.edu.cn) ｜ Applying for MS CS @ HKU / CUHK / HKUST
@@ -23,7 +23,7 @@ Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.co
 - **[wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/wutong-yu-blog?style=flat&color=gold)](https://github.com/wutongyuonce/wutong-yu-blog) - A minimalistic Antfu-style Astro blog theme｜一个精简的 Antfu 风格 Astro 博客主题
 - **[RepoMirror](https://github.com/wutongyuonce/repo-mirror)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree｜一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树
 
-#### Agent
+#### AI & Agent & Infra
 
 - **[XingClaw](https://github.com/wutongyuonce/XingClaw)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python｜用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接
 - **[Trajex](https://github.com/wutongyuonce/Trajex)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you｜让 Agent 可查询、用户可浏览的 Claude Code、Codex 和 Pi 历史会话
