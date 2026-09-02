@@ -1,6 +1,7 @@
 <img src="./signature_Wutong%20Yu_animated.svg" width="250" align="left" style="margin-right: 20px;" />
 
-**AI Agents & LLM Systems Engineer**  
+**AI Agents & LLM Systems Engineer**
+[![X @morluto](https://img.shields.io/badge/X-@morluto-000?style=flat&logo=x)](https://x.com/morluto)  
 IoT @ Hohai University  
 Applying for MS CS @ HKU / CUHK / HKUST
 
@@ -15,40 +16,41 @@ Applying for MS CS @ HKU / CUHK / HKUST
   </a>
 </p>
 
-Currently working on [pi](https://github.com/earendil-works/pi)
+Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.com/Yu2002964143523) 
 
-## Projects
+## Building
 
-### Blog
-| Project                                                      | Stars | What it does                                                 |
-| ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) |  26★  | A minimalistic Antfu-style Astro blog theme｜一个精简的 Antfu 风格 Astro 博客主题 |
+- **[wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/wutong-yu-blog?style=flat&color=gold)](https://github.com/wutongyuonce/wutong-yu-blog) - A minimalistic Antfu-style Astro blog theme｜一个精简的 Antfu 风格 Astro 博客主题
+- **[RepoMirror](https://github.com/wutongyuonce/repo-mirror)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree｜一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树
 
-### Agent/RAG
+#### Agent
 
-| Project                                                      | Stars | What it does                                                 |
-| ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  60★  | Building a Complete AI Programming Assistant System from Scratch with Python｜用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜ |
-| [Trajex](https://github.com/wutongyuonce/Trajex)         |  117★  | Past Claude Code, Codex, and Pi sessions -- queryable by your agent, browsable by you |
-| [Replica](https://github.com/wutongyuonce/Replica) |     | Memory Layer for AI, FastAPI + React + PostgresSQL、pgvector |
-| [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
-| [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21★  | A pluggable and observable modular RAG MCP framework｜一个可插拔可观测的模块化 RAG MCP 框架 |
-| [skills](https://github.com/wutongyuonce/skills) |    | 我的个人 AI Agent Skills 集合，覆盖开发、设计、研究 |
+- **[XingClaw](https://github.com/wutongyuonce/XingClaw)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python｜用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接
+- **[Trajex](https://github.com/wutongyuonce/Trajex)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you｜让 Agent 可查询、用户可浏览的 Claude Code、Codex 和 Pi 历史会话
+- **[Replica](https://github.com/wutongyuonce/Replica)** - Memory Layer for AI, built with FastAPI, React, PostgreSQL, and pgvector｜基于 FastAPI、React、PostgreSQL 和 pgvector 构建的 AI 记忆层
+- **[PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web)** - A RAG Web application based on [PageIndex](https://github.com/VectifyAI/PageIndex)｜基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web 应用
+- **[MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/MODULAR-RAG-MCP?style=flat&color=gold)](https://github.com/wutongyuonce/MODULAR-RAG-MCP) - A pluggable and observable modular RAG MCP framework｜一个可插拔、可观测的模块化 RAG MCP 框架
+- **[skills](https://github.com/wutongyuonce/skills)** - My personal collection of AI Agent Skills, covering development, design, and research｜我的个人 AI Agent Skills 集合，覆盖开发、设计与研究
 
-| Project                                                      | Stars | What it does                                                 |
-| ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) |  13★  | pi-coding-agent 深度解析与源码解读 |
-| [pi-extensions](https://github.com/wutongyuonce/pi-extensions) |    | 个人 pi-extensions 集合 |
-| [pi-repomap](https://github.com/wutongyuonce/pi-repomap) |    | Pi 的 Tree-sitter 代码库结构化感知 extension |
-| [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) |    | Claude Code Like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) Extension for Pi |
-| [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) |  11★  | Pi 的上下文卸载 Extension：将过大的工具结果移到会话 sidecar 文件中，需要时可取回 |
+#### Pi Ecosystem
 
-### APP
-| Project                                                      | Stars | What it does                                                 |
-| ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
-| [RepoMirror](https://github.com/wutongyuonce/repo-mirror) |  74★  | A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree｜一个极简的 macOS 桌面工具，用于将 GitHub 仓库或其子目录镜像同步到本地文件夹树 |
+- **[pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - In-depth analysis and source-code exploration of pi-coding-agent｜pi-coding-agent 深度解析与源码解读
+- **[pi-extensions](https://github.com/wutongyuonce/pi-extensions)** - My personal collection of pi-extensions｜个人 pi-extensions 集合
+- **[pi-repomap](https://github.com/wutongyuonce/pi-repomap)** - A Tree-sitter-powered codebase structure awareness extension for Pi｜基于 Tree-sitter 的 Pi 代码库结构化感知 Extension
+- **[pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows)** - A Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) extension for Pi｜适用于 Pi 的 Claude Code 风格 [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) Extension
+- **[pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - A context offloading extension for Pi, moving oversized tool results into session sidecar files for on-demand retrieval｜Pi 的上下文卸载 Extension：将过大的工具结果移入会话 sidecar 文件，需要时再取回
 
-## Open Contributions
+## Contributing to
+
+- **[pi](https://github.com/earendil-works/pi)** [![GitHub stars](https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold)](https://github.com/earendil-works/pi) - An AI agent toolkit with a unified LLM API, agent runtime, TUI, and coding-agent CLI｜提供统一 LLM API、Agent 运行时、TUI 与编程 Agent CLI 的 AI Agent 工具包
+- **[deer-flow](https://github.com/bytedance/deer-flow)** [![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat&color=gold)](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness for long-horizon research, coding, and content creation｜一个用于长周期研究、编程与内容创作的开源 SuperAgent Harness
+- **[deer-workflow](https://github.com/deerwork-ai/deer-workflow)** [![GitHub stars](https://img.shields.io/github/stars/deerwork-ai/deer-workflow?style=flat&color=gold)](https://github.com/deerwork-ai/deer-workflow) - An open-source Dynamic Workflow runtime for building observable and reusable Agent graphs｜一个用于构建可观测、可复用 Agent 图的开源 Dynamic Workflow 运行时
+- **[memU](https://github.com/NevaMind-AI/memU)** [![GitHub stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat&color=gold)](https://github.com/NevaMind-AI/memU) - A lightweight agent-driven memory system that provides a shared LLM wiki across sessions, agents, and devices｜一个轻量级 Agent 驱动的记忆系统，为不同会话、Agent 与设备提供共享的 LLM Wiki
+- **[OpenViking](https://github.com/volcengine/OpenViking)** [![GitHub stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=flat&color=gold)](https://github.com/volcengine/OpenViking) - An open-source context database that unifies agent memory, knowledge, and skills through a virtual filesystem｜一个通过虚拟文件系统统一管理 Agent 记忆、知识与技能的开源上下文数据库
+- **[letta-code](https://github.com/letta-ai/letta-code)** [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta-code?style=flat&color=gold)](https://github.com/letta-ai/letta-code) - A coding agent with persistent memory, identity, and the ability to learn and adapt｜一个具备持久记忆、身份认知以及学习与适应能力的编程 Agent
+- **[open-connector](https://github.com/oomol-lab/open-connector)** [![GitHub stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat&color=gold)](https://github.com/oomol-lab/open-connector) - An open-source authentication gateway connecting SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI｜一个通过 SDK、CLI、MCP、HTTP 与 OpenAPI 将 SaaS 服务连接到 AI Agent 的开源认证网关
+- **[OpenKB](https://github.com/VectifyAI/OpenKB)** [![GitHub stars](https://img.shields.io/github/stars/VectifyAI/OpenKB?style=flat&color=gold)](https://github.com/VectifyAI/OpenKB) - An open-source LLM knowledge base for building searchable, structured, and agent-readable wikis｜一个用于构建可搜索、结构化且可被 Agent 读取的开源 LLM 知识库
+- **[layerfs](https://github.com/Ephemeral-AI-Lab/layerfs)** [![GitHub stars](https://img.shields.io/github/stars/Ephemeral-AI-Lab/layerfs?style=flat&color=gold)](https://github.com/Ephemeral-AI-Lab/layerfs) - An isolated and disposable filesystem layer for branching, rewinding, and reusing Agent workspaces｜一个为 Agent 提供隔离、一次性文件系统分支的 LayerFS，支持工作区的分支、回退与复用
 
 | Project                                               |                         PR                         | Commit Overview                                                 |
 | ----------------------------------------------------- | :------------------------------------------------: | ------------------------------------------------------------ |
