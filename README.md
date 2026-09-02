@@ -29,7 +29,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | Project                                                      | Stars | What it does                                                 |
 | ------------------------------------------------------------ | :---: | ------------------------------------------------------------ |
 | [XingClaw](https://github.com/wutongyuonce/XingClaw)         |  60★  | Building a Complete AI Programming Assistant System from Scratch with Python｜用 Python 从零搭建一个完整的 AI 编程助手系统：统一 LLM 调用 + Agent 编排内核 + 飞书 IM 桥接｜ |
-| [Trajex](https://github.com/wutongyuonce/Trajex)         |  114★  | Past Claude Code, Codex, and Pi sessions -- queryable by your agent, browsable by you |
+| [Trajex](https://github.com/wutongyuonce/Trajex)         |  117★  | Past Claude Code, Codex, and Pi sessions -- queryable by your agent, browsable by you |
 | [Replica](https://github.com/wutongyuonce/Replica) |     | Memory Layer for AI, FastAPI + React + PostgresSQL、pgvector |
 | [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) |     | 基于 [PageIndex](https://github.com/VectifyAI/PageIndex) 的 RAG Web |
 | [MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP) |  21★  | A pluggable and observable modular RAG MCP framework｜一个可插拔可观测的模块化 RAG MCP 框架 |
@@ -61,7 +61,7 @@ Currently working on [pi](https://github.com/earendil-works/pi)
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.9k★) | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
 | [OpenKB](https://github.com/VectifyAI/OpenKB) (3.9k★) | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
 | [deer-flow](https://github.com/bytedance/deer-flow) (81k★) | [#4951](https://github.com/bytedance/deer-flow/pull/4951) | [fix(frontend): avoid recreating browser stream after reconnect](https://github.com/bytedance/deer-flow/commit/6688d01c8fe0553253abe5da7469e564a44c2957) |
-| [deer-flow](https://github.com/bytedance/deer-flow) (81k★) | [#4952](https://github.com/bytedance/deer-flow/pull/4952) | [fix(agents): do not hide invalid config with file fallback]() |
+| [deer-flow](https://github.com/bytedance/deer-flow) (81k★) | [#4952](https://github.com/bytedance/deer-flow/pull/4952) | [fix(agents): do not hide invalid config with file fallback](https://github.com/bytedance/deer-flow/commit/fb722770e424795d83e4eaf572591f17c7c6fcac) |
 | [deer-flow](https://github.com/bytedance/deer-flow) (81k★) | [#4972](https://github.com/bytedance/deer-flow/pull/4972) | [fix(skills): refresh user storage after config reload](https://github.com/bytedance/deer-flow/commit/013dca6352b639447f5c885b03c431fa9782598f) |
 | [deer-workflow](https://github.com/deerwork-ai/deer-workflow) (510★) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
 | [memU](https://github.com/NevaMind-AI/memU) (14.4k★) | [#643](https://github.com/NevaMind-AI/memU/pull/643) | [fix(hosts): write instructions atomically](https://github.com/NevaMind-AI/memU/commit/aec07c3bd001e560a9f20e77cbc0cee2f954af36) |
