@@ -64,7 +64,9 @@ Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.co
 |  | [#4952](https://github.com/bytedance/deer-flow/pull/4952) | [fix(agents): do not hide invalid config with file fallback](https://github.com/bytedance/deer-flow/commit/fb722770e424795d83e4eaf572591f17c7c6fcac) |
 |  | [#4972](https://github.com/bytedance/deer-flow/pull/4972) | [fix(skills): refresh user storage after config reload](https://github.com/bytedance/deer-flow/commit/013dca6352b639447f5c885b03c431fa9782598f) |
 | [deer-workflow](https://github.com/deerwork-ai/deer-workflow) [![GitHub stars](https://img.shields.io/github/stars/deerwork-ai/deer-workflow?style=flat&color=gold)](https://github.com/deerwork-ai/deer-workflow) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
-| [pi](https://github.com/earendil-works/pi) [![GitHub stars](https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold)](https://github.com/earendil-works/pi) | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions]() |
+| [pi](https://github.com/earendil-works/pi) [![GitHub stars](https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold)](https://github.com/earendil-works/pi) | [#8985](https://github.com/earendil-works/pi/pull/8985) | [fix(coding-agent): avoid overwriting imported sessions]() |
+|  | [#8744](https://github.com/earendil-works/pi/pull/8744) | [feat(tui): add opt-in overlay selection exclusion]() |
+|  | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions]() |
 |  | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments]() |
 |  | [#8615](https://github.com/earendil-works/pi/pull/8615) | [fix(coding-agent): preserve interleaved user content]() |
 |  | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares]() |
