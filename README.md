@@ -1,7 +1,7 @@
 <img src="./signature_Wutong%20Yu_animated.svg" width="250" align="left" style="margin-right: 20px;" />
 
 **AI Agents & LLM Systems Engineer**
-[![X @morluto](https://img.shields.io/badge/X-@morluto-000?style=flat&logo=x)](https://x.com/morluto)  
+[![X @Yu](https://img.shields.io/badge/X-@Yu2002964143523?style=flat&logo=x)](https://x.com/Yu2002964143523)  
 IoT @ Hohai University  
 Applying for MS CS @ HKU / CUHK / HKUST
 
