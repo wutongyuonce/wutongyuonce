@@ -3,8 +3,7 @@
 **AI Agents & LLM Systems Engineer**
 [![X @Yu](https://img.shields.io/badge/X-@Yu-000?style=flat&logo=x)](https://x.com/Yu2002964143523)  
 
-IoT @ Hohai University  
-Applying for MS CS @ HKU / CUHK / HKUST
+IoT @ [HHU](https://www.hhu.edu.cn) 23~27 ｜ Applying for MS CS @ HKU / CUHK / HKUST
 
 <div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px">
