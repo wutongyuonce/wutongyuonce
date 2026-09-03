@@ -58,6 +58,9 @@ Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.co
 |  | [#660](https://github.com/NevaMind-AI/memU/pull/660) | [feat(claude-code): verify Cowork source composition](https://github.com/NevaMind-AI/memU/commit/42f566aeb46e72bfb5b1274b4bcafc922ab89066) |
 |  | [#663](https://github.com/NevaMind-AI/memU/pull/663) | [fix(agentic): validate RecallFile pagination inputs](https://github.com/NevaMind-AI/memU/commit/abb11480e69cec9ca35d954b1c1ffc83ef11c100) |
 |  | [#675](https://github.com/NevaMind-AI/memU/pull/675) | [feat(hosts): add pi coding agent adapter]() |
+|  | [#693](https://github.com/NevaMind-AI/memU/pull/693) | [fix(vector): skip empty and wrong-dimension rows in cosine_topk]() |
+|  | [#694](https://github.com/NevaMind-AI/memU/pull/694) | [perf(retrieve): scope file roll-up to hit files via id__in]() |
+|  | [#690](https://github.com/NevaMind-AI/memU/pull/690) | [feat(retrieve): fuse BM25 with cosine via RRF]() |
 | [deer-flow](https://github.com/bytedance/deer-flow) [![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat&color=gold)](https://github.com/bytedance/deer-flow) | [#4951](https://github.com/bytedance/deer-flow/pull/4951) | [fix(frontend): avoid recreating browser stream after reconnect](https://github.com/bytedance/deer-flow/commit/6688d01c8fe0553253abe5da7469e564a44c2957) |
 |  | [#4952](https://github.com/bytedance/deer-flow/pull/4952) | [fix(agents): do not hide invalid config with file fallback](https://github.com/bytedance/deer-flow/commit/fb722770e424795d83e4eaf572591f17c7c6fcac) |
 |  | [#4972](https://github.com/bytedance/deer-flow/pull/4972) | [fix(skills): refresh user storage after config reload](https://github.com/bytedance/deer-flow/commit/013dca6352b639447f5c885b03c431fa9782598f) |
