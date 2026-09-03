@@ -39,6 +39,7 @@ Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.co
 - **[pi-repomap](https://github.com/wutongyuonce/pi-repomap)** - A Tree-sitter-powered codebase structure awareness extension for Pi
 - **[pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows)** - A Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) extension for Pi
 - **[pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - A context offloading extension for Pi, moving oversized tool results into session sidecar files for on-demand retrieval
+- **[pi-zen-mode](https://github.com/wutongyuonce/pi-zen-mode)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-zen-mode?style=flat&color=gold)](https://github.com/wutongyuonce/pi-zen-mode) - Distraction-free focus mode for Pi — nothing while it runs, only the final answer when it's done
 
 ## Contributing to
 
