@@ -70,7 +70,6 @@ Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.co
 |  | [#8744](https://github.com/earendil-works/pi/pull/8744) | [feat(tui): add opt-in overlay selection exclusion]() |
 |  | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions]() |
 |  | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments](https://github.com/earendil-works/pi/commit/c6b00676b8fea5e8e2bddd618943c6e73a38c9b3) |
-|  | [#8615](https://github.com/earendil-works/pi/pull/8615) | [fix(coding-agent): preserve interleaved user content]() |
 |  | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares](https://github.com/earendil-works/pi/commit/6f35de5b598037c28e05f52e23a00301e1275819) |
 |  | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
 |  | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
