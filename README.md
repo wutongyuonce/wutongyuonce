@@ -71,6 +71,7 @@ Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.co
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | [docs(retrieval): clarify score threshold and hotness semantics]() |
 |  | [#4733](https://github.com/volcengine/OpenViking/pull/4733) | [fix(bot): atomically persist cron store]() |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | [feat(bot): process independent sessions concurrently]() |
+|  | [#4787](https://github.com/volcengine/OpenViking/pull/4787) | [feat(plugins): add Kimi Code CLI memory plugin]() |
 | [deer-flow](https://github.com/bytedance/deer-flow) [![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat&color=gold)](https://github.com/bytedance/deer-flow) | [#4951](https://github.com/bytedance/deer-flow/pull/4951) | [fix(frontend): avoid recreating browser stream after reconnect](https://github.com/bytedance/deer-flow/commit/6688d01c8fe0553253abe5da7469e564a44c2957) |
 |  | [#4952](https://github.com/bytedance/deer-flow/pull/4952) | [fix(agents): do not hide invalid config with file fallback](https://github.com/bytedance/deer-flow/commit/fb722770e424795d83e4eaf572591f17c7c6fcac) |
 |  | [#4972](https://github.com/bytedance/deer-flow/pull/4972) | [fix(skills): refresh user storage after config reload](https://github.com/bytedance/deer-flow/commit/013dca6352b639447f5c885b03c431fa9782598f) |
