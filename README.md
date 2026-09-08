@@ -69,7 +69,7 @@ Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.co
 |  | [#4658](https://github.com/volcengine/OpenViking/pull/4658) | [feat(session): extract session skills even when no training cases are produced]() |
 |  | [#4660](https://github.com/volcengine/OpenViking/pull/4660) | [feat(bot): deliver send:// generated images on Telegram, Discord, and Slack]() |
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | [docs(retrieval): clarify score threshold and hotness semantics]() |
-|  | [#4733](https://github.com/volcengine/OpenViking/pull/4733) | [fix(bot): atomically persist cron store]() |
+|  | [#4733](https://github.com/volcengine/OpenViking/pull/4733) | [fix(bot): atomically persist cron store](https://github.com/volcengine/OpenViking/commit/d3bdd5494e679b5775f8ca9087ad6e2bb2af42f3) |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | [feat(bot): process independent sessions concurrently]() |
 |  | [#4787](https://github.com/volcengine/OpenViking/pull/4787) | [feat(plugins): add Kimi Code CLI memory plugin]() |
 | [deer-flow](https://github.com/bytedance/deer-flow) [![GitHub stars](https://img.shields.io/github/stars/bytedance/deer-flow?style=flat&color=gold)](https://github.com/bytedance/deer-flow) | [#4951](https://github.com/bytedance/deer-flow/pull/4951) | [fix(frontend): avoid recreating browser stream after reconnect](https://github.com/bytedance/deer-flow/commit/6688d01c8fe0553253abe5da7469e564a44c2957) |
