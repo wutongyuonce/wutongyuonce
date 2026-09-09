@@ -1,9 +1,22 @@
-<img src="./signature_Wutong%20Yu_animated.svg" width="250" align="left" style="margin-right: 20px;" />
-
-**AI & Agent & Infra**
-[![X @Yu](https://img.shields.io/badge/X-@Yu-000?style=flat&logo=x)](https://x.com/Yu2002964143523)  
-
-IoT @ [HHU](https://www.hhu.edu.cn) ｜ Applying for MS CS @ HKU / CUHK / HKUST
+<table>
+  <tr>
+    <td valign="middle">
+      <strong>AI &amp; Agent &amp; Infra</strong><br>
+      IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for MS CS @ HKU / CUHK / HKUST
+      <br><br>
+      <a href="https://x.com/Yu2002964143523">
+        <img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X">
+      </a>
+    </td>
+    <td align="center" width="280">
+      <img
+        src="./signature_WutongYu_animated.svg"
+        width="250"
+        alt="Wutong Yu"
+      >
+    </td>
+  </tr>
+</table>
 
 <div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px">
