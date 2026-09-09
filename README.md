@@ -91,7 +91,7 @@ Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.co
 |  | [#4972](https://github.com/bytedance/deer-flow/pull/4972) | [fix(skills): refresh user storage after config reload](https://github.com/bytedance/deer-flow/commit/013dca6352b639447f5c885b03c431fa9782598f) |
 |  | [#5258](https://github.com/bytedance/deer-flow/pull/5258) | [feat(gateway): support idempotent thread runs](https://github.com/bytedance/deer-flow/commit/9ad79baf97e940c1c737383873f2bf1200d0211a) |
 |  | [#5261](https://github.com/bytedance/deer-flow/pull/5261) | [fix(sandbox): stop E2B append from overwriting on read failure](https://github.com/bytedance/deer-flow/commit/e5d23943ce5ca7d60f4f77353114d7d0caec9af4) |
-|  | [#5264](https://github.com/bytedance/deer-flow/pull/5264) | [fix(sandbox): stop list_dir from reporting failures as empty]() |
+|  | [#5264](https://github.com/bytedance/deer-flow/pull/5264) | [fix(sandbox): stop list_dir from reporting failures as empty](https://github.com/bytedance/deer-flow/commit/d8ed8160c95b4281cf24dc898723e428f42dc453) |
 |  | [#5283](https://github.com/bytedance/deer-flow/pull/5283) | [feat(gateway): paginate thread run history]() |
 |  | [#5288](https://github.com/bytedance/deer-flow/pull/5288) | [feat(scheduler): let scheduled tasks pin a custom agent]() |
 |  | [#5291](https://github.com/bytedance/deer-flow/pull/5291) | [feat(scheduler): add interval schedule type]() |
