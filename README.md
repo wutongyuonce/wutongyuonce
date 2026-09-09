@@ -91,6 +91,8 @@ Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.co
 |  | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
 |  | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [maka](https://github.com/apache/maka) [![GitHub stars](https://img.shields.io/github/stars/apache/maka?style=flat&color=gold)](https://github.com/apache/maka) | [#5051](https://github.com/apache/maka/pull/5051) | [feat(computer-use): move overlay cursor for set_value and press_key]() |
+|  | [#5052](https://github.com/apache/maka/pull/5052) | [feat(computer-use): keep overlay cursor elevated when the aim point is covered]() |
+|  | [#5053](https://github.com/apache/maka/pull/5053) | [feat(computer-use): show snapshot selected text in model observations]() |
 |  | [#5054](https://github.com/apache/maka/pull/5054) | [feat(runtime): add Gemini Google Search grounding]() |
 |  | [#5055](https://github.com/apache/maka/pull/5055) | [feat(storage): scan OpenCode sessions in foreign-session store]() |
 | [open-connector](https://github.com/oomol-lab/open-connector) [![GitHub stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat&color=gold)](https://github.com/oomol-lab/open-connector) | [#435](https://github.com/oomol-lab/open-connector/pull/435) | [fix(oauth): prune expired authorization states](https://github.com/oomol-lab/open-connector/commit/5c021dfb61c7ddcc2e522fc8872bcae07b49ed07) |
