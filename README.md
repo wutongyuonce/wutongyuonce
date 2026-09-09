@@ -1,6 +1,6 @@
 # Hi, I'm WutongYu 👋
 
-I love coding and designing elegant systems that turn ideas into useful software.
+I love coding and designing elegant systems that turn ideas into useful software.🐱
 
 - 🤖 **Now:** building AI agents and agent infrastructure
 - 🎓 **Education:** IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for an MS in CS @ HKU / CUHK / HKUST
