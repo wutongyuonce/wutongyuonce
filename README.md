@@ -4,6 +4,7 @@ I love coding and designing elegant systems that turn ideas into useful software
 
 - 🤖 **Now:** building AI agents and agent infrastructure
 - 🎓 **Education:** IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for an MS in CS @ HKU / CUHK / HKUST
+- 🧑‍💻 **Internship:** @GIAN
 - 🌐 **Links:** visit my blog **[here](https://www.wutongyu.site)** or reach me on <a href="https://x.com/Yu2002964143523"><img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X"></a>
 
 <div align="left">
@@ -88,6 +89,7 @@ I love coding and designing elegant systems that turn ideas into useful software
 |  | [#5053](https://github.com/apache/maka/pull/5053) | [feat(computer-use): show snapshot selected text in model observations]() |
 |  | [#5054](https://github.com/apache/maka/pull/5054) | [feat(runtime): add Gemini Google Search grounding]() |
 |  | [#5055](https://github.com/apache/maka/pull/5055) | [feat(storage): scan OpenCode sessions in foreign-session store]() |
+|  | [#5070](https://github.com/apache/maka/pull/5070) | [feat(mcp): forward tools/call progress to Host]() |
 | [open-connector](https://github.com/oomol-lab/open-connector) [![GitHub stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat&color=gold)](https://github.com/oomol-lab/open-connector) | [#435](https://github.com/oomol-lab/open-connector/pull/435) | [fix(oauth): prune expired authorization states](https://github.com/oomol-lab/open-connector/commit/5c021dfb61c7ddcc2e522fc8872bcae07b49ed07) |
 |  | [#436](https://github.com/oomol-lab/open-connector/pull/436) | [fix(runtime): handle JSON media types case-insensitively](https://github.com/oomol-lab/open-connector/commit/daca273d996767d0df0fb4ba6ada478572f6bed1) |
 |  | [#439](https://github.com/oomol-lab/open-connector/pull/439) | [fix(providers): allow private network credential validation](https://github.com/oomol-lab/open-connector/commit/10a71c5235e753dea25cd5d7f0fd91488a68730c) |
