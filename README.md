@@ -1,35 +1,15 @@
-<table>
-  <tr>
-    <td valign="middle">
-      <strong>AI &amp; Agent &amp; Infra</strong><br>
-      IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for MS CS @ HKU / CUHK / HKUST
-      <br><br>
-      <a href="https://x.com/Yu2002964143523">
-        <img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X">
-      </a>
-    </td>
-    <td align="center" width="280">
-      <img
-        src="./signature_WutongYu_animated.svg"
-        width="250"
-        alt="Wutong Yu"
-      >
-    </td>
-  </tr>
-</table>
+# Hi, I'm WutongYu 👋
+
+I love coding and designing elegant systems that turn ideas into useful software.
+
+- 🤖 **Now:** building AI agents and agent infrastructure
+- 🎓 **Education:** IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for an MS in CS @ HKU / CUHK / HKUST
+- 🌐 **Links:** visit my blog **[here](https://www.wutongyu.site)** or reach me on <a href="https://x.com/Yu2002964143523"><img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X"></a>
 
 <div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=default&hide_border=false#gh-light-mode-only" height="185px">
 </div>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,md,docker,c,html,css,javascript,typescript,nodejs,vue,react,electron,java,python,spring,fastapi,mysql,sqlite,redis,kafka" />
-  </a>
-</p>
-
-Visit my blog [here](https://www.wutongyu.site) and Reach me on [X](https://x.com/Yu2002964143523) 
 
 ## Building
 
