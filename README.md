@@ -96,9 +96,11 @@ I love coding and designing elegant systems that turn ideas into useful software
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 |  | [#4787](https://github.com/volcengine/OpenViking/pull/4787) | feat(plugins): add Kimi Code CLI memory plugin |
+| [deer-flow](https://github.com/bytedance/deer-flow) | [#5341](https://github.com/bytedance/deer-flow/pull/5341) | [feat(tools): filter list_uploaded_files by name and extension]() |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
 |  | [#8743](https://github.com/earendil-works/pi/pull/8743) | fix(coding-agent): ignore stale tool image conversions |
 |  | [#8612](https://github.com/earendil-works/pi/pull/8612) | fix(coding-agent): clear delivered image-only queue entries |
+|  | [#9434](https://github.com/earendil-works/pi/pull/9434) | feat(coding-agent): allow extensions to append to the session system prompt |
 | [maka](https://github.com/apache/maka) [![GitHub stars](https://img.shields.io/github/stars/apache/maka?style=flat&color=gold)](https://github.com/apache/maka) | [#5051](https://github.com/apache/maka/pull/5051) | feat(computer-use): move overlay cursor for set_value and press_key |
 |  | [#5052](https://github.com/apache/maka/pull/5052) | feat(computer-use): keep overlay cursor elevated when the aim point is covered |
 |  | [#5053](https://github.com/apache/maka/pull/5053) | feat(computer-use): show snapshot selected text in model observations |
