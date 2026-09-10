@@ -16,15 +16,15 @@ I love coding and designing elegant systems that turn ideas into useful software
 
 - **[wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/wutong-yu-blog?style=flat&color=gold)](https://github.com/wutongyuonce/wutong-yu-blog) - A minimalistic Antfu-style Astro blog theme
 - **[RepoMirror](https://github.com/wutongyuonce/repo-mirror)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
+- **[skills](https://github.com/wutongyuonce/skills)** - My personal collection of AI Agent Skills, covering development, design, and research
+- **[understand-project](https://github.com/wutongyuonce/understand-project)** - Agent Skill for Better Understanding Projects
 
 #### Agent & Agent Infra
 
-- **[XingClaw](https://github.com/wutongyuonce/XingClaw)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python
-- **[skills](https://github.com/wutongyuonce/skills)** - My personal collection of AI Agent Skills, covering development, design, and research
 - **[Trajex](https://github.com/wutongyuonce/Trajex)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you
+- **[XingClaw](https://github.com/wutongyuonce/XingClaw)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python
 - **[Replica](https://github.com/wutongyuonce/Replica)** - Memory Layer for AI, built with FastAPI, React, PostgreSQL, and pgvector
 - **[PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web)** - A RAG Web application based on [PageIndex](https://github.com/VectifyAI/PageIndex)
-- **[MODULAR-RAG-MCP](https://github.com/wutongyuonce/MODULAR-RAG-MCP)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/MODULAR-RAG-MCP?style=flat&color=gold)](https://github.com/wutongyuonce/MODULAR-RAG-MCP) - A pluggable and observable modular RAG MCP framework
 
 #### Pi Ecosystem
 
