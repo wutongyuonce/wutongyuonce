@@ -97,6 +97,7 @@ I love coding and designing elegant systems that turn ideas into useful software
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 |  | [#4787](https://github.com/volcengine/OpenViking/pull/4787) | feat(plugins): add Kimi Code CLI memory plugin |
 | [deer-flow](https://github.com/bytedance/deer-flow) | [#5341](https://github.com/bytedance/deer-flow/pull/5341) | [feat(tools): filter list_uploaded_files by name and extension]() |
+|  | [#5347](https://github.com/bytedance/deer-flow/pull/5347) | feat(extensions): add in-place upgrade that keeps private config |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
 |  | [#8743](https://github.com/earendil-works/pi/pull/8743) | fix(coding-agent): ignore stale tool image conversions |
 |  | [#8612](https://github.com/earendil-works/pi/pull/8612) | fix(coding-agent): clear delivered image-only queue entries |
