@@ -78,6 +78,7 @@ I love coding and designing elegant systems that turn ideas into useful software
 |  | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments](https://github.com/earendil-works/pi/commit/c6b00676b8fea5e8e2bddd618943c6e73a38c9b3) |
 |  | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares](https://github.com/earendil-works/pi/commit/6f35de5b598037c28e05f52e23a00301e1275819) |
 |  | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
+| [letta-code](https://github.com/letta-ai/letta-code) [![GitHub stars](https://img.shields.io/github/stars/letta-ai/letta-code?style=flat&color=gold)](https://github.com/letta-ai/letta-code) | [4205](https://github.com/letta-ai/letta-code/pull/4205) | [fix(agent): keep memoryScope on provider-not-supported subagent retry](https://github.com/letta-ai/letta-code/commit/73145b348510edad2a3067790936eb838777d5d8) |
 | [llm-space](https://github.com/deer-flow/llm-space) [![GitHub stars](https://img.shields.io/github/stars/deer-flow/llm-space?style=flat&color=gold)](https://github.com/deer-flow/llm-space) | [#148](https://github.com/deer-flow/llm-space/pull/148) | [fix(core): confine LocalFileSystem paths](https://github.com/deer-flow/llm-space/commit/41869c1061890dbcafecb7a7434a29e5dc09a4c2) |
 | [open-connector](https://github.com/oomol-lab/open-connector) [![GitHub stars](https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat&color=gold)](https://github.com/oomol-lab/open-connector) | [#435](https://github.com/oomol-lab/open-connector/pull/435) | [fix(oauth): prune expired authorization states](https://github.com/oomol-lab/open-connector/commit/5c021dfb61c7ddcc2e522fc8872bcae07b49ed07) |
 |  | [#436](https://github.com/oomol-lab/open-connector/pull/436) | [fix(runtime): handle JSON media types case-insensitively](https://github.com/oomol-lab/open-connector/commit/daca273d996767d0df0fb4ba6ada478572f6bed1) |
@@ -108,5 +109,6 @@ I love coding and designing elegant systems that turn ideas into useful software
 |  | [#5054](https://github.com/apache/maka/pull/5054) | feat(runtime): add Gemini Google Search grounding |
 |  | [#5055](https://github.com/apache/maka/pull/5055) | feat(storage): scan OpenCode sessions in foreign-session store |
 |  | [#5070](https://github.com/apache/maka/pull/5070) | feat(mcp): forward tools/call progress to Host |
+| [AstrBot](https://github.com/AstrBotDevs/AstrBot) [![GitHub stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=flat&color=gold)](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
 
 </details>
