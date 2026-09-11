@@ -1,6 +1,6 @@
 # Hi, I'm WutongYu 👋
 
-I love coding and designing elegant systems.🐱
+I love coding and designing elegant systems.🐺
 
 - 🤖 **Now:** building AI&Agent&Infra
 - 🎓 **Education:** IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for an MS in CS @ HKU / CUHK / HKUST
