@@ -72,7 +72,8 @@ I love coding and designing elegant systems.🐺
 |  | [#5283](https://github.com/bytedance/deer-flow/pull/5283) | [feat(gateway): paginate thread run history](https://github.com/bytedance/deer-flow/commit/3c7d3303d3ef9335b6d91b49acff1a6f6609936c) |
 |  | [#5288](https://github.com/bytedance/deer-flow/pull/5288) | [feat(scheduler): let scheduled tasks pin a custom agent](https://github.com/bytedance/deer-flow/commit/69f0f483eb6cda2ce75c5633a6c4f48789ab2fa0) |
 |  | [#5291](https://github.com/bytedance/deer-flow/pull/5291) | [feat(scheduler): add interval schedule type](https://github.com/bytedance/deer-flow/commit/48a8978b7b6e1ce84454103f1831bf0c5cc3b1eb) |
-|  | [#5312](https://github.com/bytedance/deer-flow/pull/5312) | [feat(extensions): allow constructor kwargs on config-declared middlewares]() |
+|  | [#5312](https://github.com/bytedance/deer-flow/pull/5312) | [feat(extensions): allow constructor kwargs on config-declared middlewares](https://github.com/zhudao/deer-flow/commit/4470932118a6ea193542bc74e864eee4622b3ba3) |
+|  | [#5341](https://github.com/bytedance/deer-flow/pull/5341) | [feat(tools): filter list_uploaded_files by name and extension](https://github.com/bytedance/deer-flow/commit/9f17bbeec74eb3c82a4016c0f7477bc2c9dc1066) |
 | [deer-workflow](https://github.com/deerwork-ai/deer-workflow) [![GitHub stars](https://img.shields.io/github/stars/deerwork-ai/deer-workflow?style=flat&color=gold)](https://github.com/deerwork-ai/deer-workflow) | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
 | [pi](https://github.com/earendil-works/pi) [![GitHub stars](https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold)](https://github.com/earendil-works/pi) | [#8985](https://github.com/earendil-works/pi/pull/8985) | [fix(coding-agent): avoid overwriting imported sessions](https://github.com/earendil-works/pi/commit/1a773c8e7a535e35a15e9babc37231e515b18794) |
 |  | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments](https://github.com/earendil-works/pi/commit/c6b00676b8fea5e8e2bddd618943c6e73a38c9b3) |
@@ -97,8 +98,7 @@ I love coding and designing elegant systems.🐺
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 |  | [#4787](https://github.com/volcengine/OpenViking/pull/4787) | feat(plugins): add Kimi Code CLI memory plugin |
-| [deer-flow](https://github.com/bytedance/deer-flow) | [#5341](https://github.com/bytedance/deer-flow/pull/5341) | feat(tools): filter list_uploaded_files by name and extension |
-|  | [#5347](https://github.com/bytedance/deer-flow/pull/5347) | feat(extensions): add in-place upgrade that keeps private config |
+| [deer-flow](https://github.com/bytedance/deer-flow) | [#5347](https://github.com/bytedance/deer-flow/pull/5347) | feat(extensions): add in-place upgrade that keeps private config |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
 |  | [#8743](https://github.com/earendil-works/pi/pull/8743) | fix(coding-agent): ignore stale tool image conversions |
 |  | [#8612](https://github.com/earendil-works/pi/pull/8612) | fix(coding-agent): clear delivered image-only queue entries |
