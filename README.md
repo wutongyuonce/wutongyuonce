@@ -14,32 +14,32 @@ I love coding and designing elegant systems.🐺
 
 ## Building
 
-- **[wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/wutong-yu-blog?style=flat&color=gold)](https://github.com/wutongyuonce/wutong-yu-blog) - A minimalistic Antfu-style Astro blog theme
-- **[RepoMirror](https://github.com/wutongyuonce/repo-mirror)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
-- **[skills](https://github.com/wutongyuonce/skills)** - My personal collection of AI Agent Skills, covering development, design, and research
-- **[understand-project](https://github.com/wutongyuonce/understand-project)** - Agent Skill for Better Understanding Projects
+- [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/wutong-yu-blog?style=flat&color=gold)](https://github.com/wutongyuonce/wutong-yu-blog) - A minimalistic Antfu-style Astro blog theme
+- [RepoMirror](https://github.com/wutongyuonce/repo-mirror) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
+- [skills](https://github.com/wutongyuonce/skills) - My personal collection of AI Agent Skills, covering development, design, and research
+- [understand-project](https://github.com/wutongyuonce/understand-project) - Agent Skill for Better Understanding Projects
 
 #### Agent
 
-- **[Trajex](https://github.com/wutongyuonce/Trajex)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you
-- **[XingClaw](https://github.com/wutongyuonce/XingClaw)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python
-- **[Replica](https://github.com/wutongyuonce/Replica)** - Memory Layer for AI, built with FastAPI, React, PostgreSQL, and pgvector
-- **[PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web)** - A RAG Web application based on [PageIndex](https://github.com/VectifyAI/PageIndex)
+- [Trajex](https://github.com/wutongyuonce/Trajex) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you
+- [XingClaw](https://github.com/wutongyuonce/XingClaw) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python
+- [Replica](https://github.com/wutongyuonce/Replica) - Memory Layer for AI, built with FastAPI, React, PostgreSQL, and pgvector
+- [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) - A RAG Web application based on [PageIndex](https://github.com/VectifyAI/PageIndex)
 
 #### Pi Ecosystem
 
-- **[pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - In-depth analysis and source-code exploration of pi-coding-agent
-- **[pi-extensions](https://github.com/wutongyuonce/pi-extensions)** - My personal collection of pi-extensions
-- **[pi-repomap](https://github.com/wutongyuonce/pi-repomap)** - A Tree-sitter-powered codebase structure awareness extension for Pi
-- **[pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows)** - A Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) extension for Pi
-- **[pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - A context offloading extension for Pi, moving oversized tool results into session sidecar files for on-demand retrieval
-- **[pi-zen-mode](https://github.com/wutongyuonce/pi-zen-mode)** [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-zen-mode?style=flat&color=gold)](https://github.com/wutongyuonce/pi-zen-mode) - Distraction-free focus mode for Pi — nothing while it runs, only the final answer when it's done
+- [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - In-depth analysis and source-code exploration of pi-coding-agent
+- [pi-extensions](https://github.com/wutongyuonce/pi-extensions) - My personal collection of pi-extensions
+- [pi-repomap](https://github.com/wutongyuonce/pi-repomap) - A Tree-sitter-powered codebase structure awareness extension for Pi
+- [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) - A Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) extension for Pi
+- [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - A context offloading extension for Pi, moving oversized tool results into session sidecar files for on-demand retrieval
+- [pi-zen-mode](https://github.com/wutongyuonce/pi-zen-mode) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-zen-mode?style=flat&color=gold)](https://github.com/wutongyuonce/pi-zen-mode) - Distraction-free focus mode for Pi — nothing while it runs, only the final answer when it's done
 
 ## Representative Contributions
 
 <details>
 <summary>
-  <b><a href="https://github.com/NevaMind-AI/memU">memU</a></b>
+  <a href="https://github.com/NevaMind-AI/memU">memU</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat&color=gold">
   &nbsp;·&nbsp; 6 PRs
@@ -61,7 +61,7 @@ I love coding and designing elegant systems.🐺
 
 <details>
 <summary>
-  <b><a href="https://github.com/volcengine/OpenViking">OpenViking</a></b>
+  <a href="https://github.com/volcengine/OpenViking">OpenViking</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/volcengine/OpenViking?style=flat&color=gold">
   &nbsp;·&nbsp; 8 PRs
@@ -85,10 +85,10 @@ I love coding and designing elegant systems.🐺
 
 <details>
 <summary>
-  <b><a href="https://github.com/bytedance/deer-flow">deer-flow</a></b>
+  <a href="https://github.com/bytedance/deer-flow">deer-flow</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/bytedance/deer-flow?style=flat&color=gold">
-  &nbsp;·&nbsp; 11 PRs
+  &nbsp;·&nbsp; 12 PRs
   &nbsp;·&nbsp; Open-source super agent harness for research and coding
 </summary>
 
@@ -107,12 +107,13 @@ I love coding and designing elegant systems.🐺
 | [#5291](https://github.com/bytedance/deer-flow/pull/5291) | [feat(scheduler): add interval schedule type](https://github.com/bytedance/deer-flow/commit/48a8978b7b6e1ce84454103f1831bf0c5cc3b1eb) |
 | [#5312](https://github.com/bytedance/deer-flow/pull/5312) | [feat(extensions): allow constructor kwargs on config-declared middlewares](https://github.com/zhudao/deer-flow/commit/4470932118a6ea193542bc74e864eee4622b3ba3) |
 | [#5341](https://github.com/bytedance/deer-flow/pull/5341) | [feat(tools): filter list_uploaded_files by name and extension](https://github.com/bytedance/deer-flow/commit/9f17bbeec74eb3c82a4016c0f7477bc2c9dc1066) |
+| [#5347](https://github.com/bytedance/deer-flow/pull/5347) | [feat(extensions): add in-place upgrade that keeps private config](https://github.com/bytedance/deer-flow/commit/f17ca3777a1c14b40374f8c496f3f0cd8a54d487) |
 
 </details>
 
 <details>
 <summary>
-  <b><a href="https://github.com/deerwork-ai/deer-workflow">deer-workflow</a></b>
+  <a href="https://github.com/deerwork-ai/deer-workflow">deer-workflow</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/deerwork-ai/deer-workflow?style=flat&color=gold">
   &nbsp;·&nbsp; 1 PR
@@ -129,7 +130,7 @@ I love coding and designing elegant systems.🐺
 
 <details>
 <summary>
-  <b><a href="https://github.com/earendil-works/pi">pi</a></b>
+  <a href="https://github.com/earendil-works/pi">pi</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold">
   &nbsp;·&nbsp; 4 PRs
@@ -149,7 +150,7 @@ I love coding and designing elegant systems.🐺
 
 <details>
 <summary>
-  <b><a href="https://github.com/letta-ai/letta-code">letta-code</a></b>
+  <a href="https://github.com/letta-ai/letta-code">letta-code</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/letta-ai/letta-code?style=flat&color=gold">
   &nbsp;·&nbsp; 1 PR
@@ -166,7 +167,7 @@ I love coding and designing elegant systems.🐺
 
 <details>
 <summary>
-  <b><a href="https://github.com/deer-flow/llm-space">llm-space</a></b>
+  <a href="https://github.com/deer-flow/llm-space">llm-space</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/deer-flow/llm-space?style=flat&color=gold">
   &nbsp;·&nbsp; 1 PR
@@ -183,7 +184,7 @@ I love coding and designing elegant systems.🐺
 
 <details>
 <summary>
-  <b><a href="https://github.com/oomol-lab/open-connector">open-connector</a></b>
+  <a href="https://github.com/oomol-lab/open-connector">open-connector</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat&color=gold">
   &nbsp;·&nbsp; 3 PRs
@@ -202,7 +203,7 @@ I love coding and designing elegant systems.🐺
 
 <details>
 <summary>
-  <b><a href="https://github.com/VectifyAI/OpenKB">OpenKB</a></b>
+  <a href="https://github.com/VectifyAI/OpenKB">OpenKB</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/VectifyAI/OpenKB?style=flat&color=gold">
   &nbsp;·&nbsp; 2 PRs
@@ -229,7 +230,6 @@ I love coding and designing elegant systems.🐺
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 |  | [#4787](https://github.com/volcengine/OpenViking/pull/4787) | feat(plugins): add Kimi Code CLI memory plugin |
-| [deer-flow](https://github.com/bytedance/deer-flow) | [#5347](https://github.com/bytedance/deer-flow/pull/5347) | feat(extensions): add in-place upgrade that keeps private config |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
 |  | [#8743](https://github.com/earendil-works/pi/pull/8743) | fix(coding-agent): ignore stale tool image conversions |
 |  | [#8612](https://github.com/earendil-works/pi/pull/8612) | fix(coding-agent): clear delivered image-only queue entries |
