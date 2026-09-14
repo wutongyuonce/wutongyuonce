@@ -153,6 +153,28 @@ I love coding and designing elegant systems.🐺
 
 <details>
 <summary>
+  <a href="https://github.com/oceanbase/powercontext">powercontext</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/oceanbase/powercontext?style=flat&color=gold">
+  &nbsp;·&nbsp; PRs
+  &nbsp;·&nbsp; Context for work that humans and agents hand off and continue
+</summary>
+
+</details>
+
+<details>
+<summary>
+  <a href="https://github.com/apache/maka">maka</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/apache/maka?style=flat&color=gold">
+  &nbsp;·&nbsp; PRs
+  &nbsp;·&nbsp; A high-performance agent workspace that keeps a complete record of everything it did
+</summary>
+
+</details>
+
+<details>
+<summary>
   <a href="https://github.com/letta-ai/letta-code">letta-code</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/letta-ai/letta-code?style=flat&color=gold">
