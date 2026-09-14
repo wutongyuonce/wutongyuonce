@@ -133,7 +133,7 @@ I love coding and designing elegant systems.🐺
   <a href="https://github.com/earendil-works/pi">pi</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold">
-  &nbsp;·&nbsp; 4 PRs
+  &nbsp;·&nbsp; 6 PRs
   &nbsp;·&nbsp; Extensible AI coding agent and development toolkit
 </summary>
 
@@ -141,6 +141,8 @@ I love coding and designing elegant systems.🐺
 
 | PR | Commit |
 | :-: | --- |
+| [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions]() |
+| [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
 | [#8985](https://github.com/earendil-works/pi/pull/8985) | [fix(coding-agent): avoid overwriting imported sessions](https://github.com/earendil-works/pi/commit/1a773c8e7a535e35a15e9babc37231e515b18794) |
 | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments](https://github.com/earendil-works/pi/commit/c6b00676b8fea5e8e2bddd618943c6e73a38c9b3) |
 | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares](https://github.com/earendil-works/pi/commit/6f35de5b598037c28e05f52e23a00301e1275819) |
@@ -231,8 +233,6 @@ I love coding and designing elegant systems.🐺
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 |  | [#4787](https://github.com/volcengine/OpenViking/pull/4787) | feat(plugins): add Kimi Code CLI memory plugin |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
-|  | [#8743](https://github.com/earendil-works/pi/pull/8743) | fix(coding-agent): ignore stale tool image conversions |
-|  | [#8612](https://github.com/earendil-works/pi/pull/8612) | fix(coding-agent): clear delivered image-only queue entries |
 |  | [#9434](https://github.com/earendil-works/pi/pull/9434) | feat(coding-agent): allow extensions to append to the session system prompt |
 | [maka](https://github.com/apache/maka) [![GitHub stars](https://img.shields.io/github/stars/apache/maka?style=flat&color=gold)](https://github.com/apache/maka) | [#5051](https://github.com/apache/maka/pull/5051) | feat(computer-use): move overlay cursor for set_value and press_key |
 |  | [#5052](https://github.com/apache/maka/pull/5052) | feat(computer-use): keep overlay cursor elevated when the aim point is covered |
