@@ -14,7 +14,7 @@ I love coding and designing elegant systems.🐺
 
 ## Building
 
-- [wutong-yu-blog](https://github.com/wutongyuonce/wutong-yu-blog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/wutong-yu-blog?style=flat&color=gold)](https://github.com/wutongyuonce/wutong-yu-blog) - A minimalistic Antfu-style Astro blog theme
+- [YuBlog](https://github.com/wutongyuonce/YuBlog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/YuBlog?style=flat&color=gold)](https://github.com/wutongyuonce/YuBlog) - A minimalistic Antfu-style Astro blog theme
 - [RepoMirror](https://github.com/wutongyuonce/repo-mirror) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
 - [skills](https://github.com/wutongyuonce/skills) - My personal collection of AI Agent Skills, covering development, design, and research
 - [understand-project](https://github.com/wutongyuonce/understand-project) - Agent Skill for Better Understanding Projects
