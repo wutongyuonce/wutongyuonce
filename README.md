@@ -19,14 +19,14 @@ I love coding and designing elegant systems.🐺
 - [skills](https://github.com/wutongyuonce/skills) - My personal collection of AI Agent Skills, covering development, design, and research
 - [understand-project](https://github.com/wutongyuonce/understand-project) - Agent Skill for Better Understanding Projects
 
-#### Agent
+### Agent
 
 - [Trajex](https://github.com/wutongyuonce/Trajex) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you
 - [XingClaw](https://github.com/wutongyuonce/XingClaw) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python
 - [Replica](https://github.com/wutongyuonce/Replica) - Memory Layer for AI, built with FastAPI, React, PostgreSQL, and pgvector
 - [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) - A RAG Web application based on [PageIndex](https://github.com/VectifyAI/PageIndex)
 
-#### Pi Ecosystem
+### Pi Ecosystem
 
 - [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - In-depth analysis and source-code exploration of pi-coding-agent
 - [pi-extensions](https://github.com/wutongyuonce/pi-extensions) - My personal collection of pi-extensions
@@ -157,7 +157,7 @@ I love coding and designing elegant systems.🐺
   &nbsp;
   <img src="https://img.shields.io/github/stars/apache/maka?style=flat&color=gold">
   &nbsp;·&nbsp; 1 PR
-  &nbsp;·&nbsp; A high-performance agent workspace that keeps a complete record of everything it did
+  &nbsp;·&nbsp; Agent that keeps a complete record of everything it did
 </summary>
 
 | PR | Commit |
