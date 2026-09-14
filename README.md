@@ -153,22 +153,26 @@ I love coding and designing elegant systems.🐺
 
 <details>
 <summary>
-  <a href="https://github.com/oceanbase/powercontext">powercontext</a>
+  <a href="https://github.com/apache/maka">maka</a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/oceanbase/powercontext?style=flat&color=gold">
-  &nbsp;·&nbsp; PRs
-  &nbsp;·&nbsp; Context for work that humans and agents hand off and continue
+  <img src="https://img.shields.io/github/stars/apache/maka?style=flat&color=gold">
+  &nbsp;·&nbsp; 1 PR
+  &nbsp;·&nbsp; A high-performance agent workspace that keeps a complete record of everything it did
 </summary>
+
+| PR | Commit |
+| :-: | --- |
+| [#5308](https://github.com/apache/maka/pull/5308) | [feat(cli): unify external session imports through Host]() |
 
 </details>
 
 <details>
 <summary>
-  <a href="https://github.com/apache/maka">maka</a>
+  <a href="https://github.com/oceanbase/powercontext">powercontext</a>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/apache/maka?style=flat&color=gold">
-  &nbsp;·&nbsp; PRs
-  &nbsp;·&nbsp; A high-performance agent workspace that keeps a complete record of everything it did
+  <img src="https://img.shields.io/github/stars/oceanbase/powercontext?style=flat&color=gold">
+  &nbsp;·&nbsp; PR
+  &nbsp;·&nbsp; Context for work that humans and agents hand off and continue
 </summary>
 
 </details>
@@ -260,7 +264,6 @@ I love coding and designing elegant systems.🐺
 |  | [#5052](https://github.com/apache/maka/pull/5052) | feat(computer-use): keep overlay cursor elevated when the aim point is covered |
 |  | [#5053](https://github.com/apache/maka/pull/5053) | feat(computer-use): show snapshot selected text in model observations |
 |  | [#5054](https://github.com/apache/maka/pull/5054) | feat(runtime): add Gemini Google Search grounding |
-|  | [#5055](https://github.com/apache/maka/pull/5055) | feat(storage): scan OpenCode sessions in foreign-session store |
 |  | [#5070](https://github.com/apache/maka/pull/5070) | feat(mcp): forward tools/call progress to Host |
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) [![GitHub stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=flat&color=gold)](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
 
