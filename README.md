@@ -5,7 +5,7 @@ I love coding and designing elegant systems.🐺
 - 🤖 **Now:** focusing on Agent Harness & Long-term Memory & Infra(sandbox、computer-use）
 - 🎓 **Education:** IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for an MS in CS @ HKU / CUHK / HKUST
 - 🧑‍💻 **Internship:** prev @GIAN
-- 🌐 **Links:** visit my blog **[here](https://www.wutongyu.site)** or reach me on <a href="https://x.com/Yu2002964143523"><img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X"></a>
+- 🌐 **Links:** visit my blog [here](https://www.wutongyu.site) or reach me on <a href="https://x.com/Yu2002964143523"><img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X"></a>
 
 <div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px">
