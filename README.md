@@ -171,9 +171,15 @@ I love coding and designing elegant systems.🐺
   <a href="https://github.com/oceanbase/powercontext">powercontext</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/oceanbase/powercontext?style=flat&color=gold">
-  &nbsp;·&nbsp; PR
+  &nbsp;·&nbsp; 1 PR
   &nbsp;·&nbsp; Context for work that humans and agents hand off and continue
 </summary>
+
+
+| PR | Commit |
+| :-: | --- |
+| [#1604](https://github.com/oceanbase/powercontext/pull/1604) | [feat(pi): add artifact inspection tools](
+https://github.com/oceanbase/powercontext/commit/9ff03eedffe6e73a54bb3adf40d42badd7cacdf7) |
 
 </details>
 
