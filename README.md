@@ -187,6 +187,7 @@
 | :-: | --- |
 | [#1604](https://github.com/oceanbase/powercontext/pull/1604) | [feat(pi): add artifact inspection tools](https://github.com/oceanbase/powercontext/commit/9ff03eedffe6e73a54bb3adf40d42badd7cacdf7) |
 | [#1608](https://github.com/oceanbase/powercontext/pull/1608) | [feat(pi): add Topic Memory read tools](https://github.com/oceanbase/powercontext/commit/13518e4d8a49c1e19d3ed2dd61b31c248c426a0e) |
+| [#1617](https://github.com/oceanbase/powercontext/pull/1617) | [feat(pi): add structured work continuity tools]() |
 
 </details>
 
@@ -273,11 +274,11 @@
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 |  | [#4787](https://github.com/volcengine/OpenViking/pull/4787) | feat(plugins): add Kimi Code CLI memory plugin |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
-| [maka](https://github.com/apache/maka) [![GitHub stars](https://img.shields.io/github/stars/apache/maka?style=flat&color=gold)](https://github.com/apache/maka) | [#5051](https://github.com/apache/maka/pull/5051) | feat(computer-use): move overlay cursor for set_value and press_key |
+| [maka](https://github.com/apache/maka) | [#5051](https://github.com/apache/maka/pull/5051) | feat(computer-use): move overlay cursor for set_value and press_key |
 |  | [#5052](https://github.com/apache/maka/pull/5052) | feat(computer-use): keep overlay cursor elevated when the aim point is covered |
 |  | [#5053](https://github.com/apache/maka/pull/5053) | feat(computer-use): show snapshot selected text in model observations |
 |  | [#5054](https://github.com/apache/maka/pull/5054) | feat(runtime): add Gemini Google Search grounding |
 |  | [#5070](https://github.com/apache/maka/pull/5070) | feat(mcp): forward tools/call progress to Host |
-| [AstrBot](https://github.com/AstrBotDevs/AstrBot) [![GitHub stars](https://img.shields.io/github/stars/AstrBotDevs/AstrBot?style=flat&color=gold)](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
+| [AstrBot](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
 
 </details>
