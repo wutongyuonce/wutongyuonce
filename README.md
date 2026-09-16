@@ -178,7 +178,7 @@
   <a href="https://github.com/oceanbase/powercontext">powercontext</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/oceanbase/powercontext?style=flat&color=gold">
-  &nbsp;·&nbsp; 3 PRs
+  &nbsp;·&nbsp; 4 PRs
   &nbsp;·&nbsp; Context for work that humans and agents hand off and continue
 </summary>
 
@@ -231,7 +231,7 @@
   <a href="https://github.com/oomol-lab/open-connector">open-connector</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/oomol-lab/open-connector?style=flat&color=gold">
-  &nbsp;·&nbsp; 4 PRs
+  &nbsp;·&nbsp; 3 PRs
   &nbsp;·&nbsp; Open-source connector infrastructure for AI applications
 </summary>
 
