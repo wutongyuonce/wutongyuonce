@@ -169,7 +169,7 @@
 
 | PR | Commit |
 | :-: | --- |
-| [#5308](https://github.com/apache/maka/pull/5308) | [feat(cli): unify external session imports through Host]() |
+| [#5308](https://github.com/apache/maka/pull/5308) | [feat(cli): unify external session imports through Host](https://github.com/apache/maka/commit/842667676a8c02673ddbf2f7a18f224860fae088) |
 
 </details>
 
