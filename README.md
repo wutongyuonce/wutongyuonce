@@ -24,20 +24,20 @@
 - [YuBlog](https://github.com/wutongyuonce/YuBlog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/YuBlog?style=flat&color=gold)](https://github.com/wutongyuonce/YuBlog) - A minimalistic Antfu-style Astro blog theme
 - [RepoMirror](https://github.com/wutongyuonce/repo-mirror) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
 
-### Agent
+#### Agent
 
 - [Trajex](https://github.com/wutongyuonce/Trajex) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you
 - [XingClaw](https://github.com/wutongyuonce/XingClaw) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python
 - [Replica](https://github.com/wutongyuonce/Replica) - Memory Layer for AI, built with FastAPI, React, PostgreSQL, and pgvector
 - [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) - A RAG Web application based on [PageIndex](https://github.com/VectifyAI/PageIndex)
 
-### Skills
+#### Skills
 
 - [skills](https://github.com/wutongyuonce/skills) - My personal collection of AI Agent Skills, covering development, design, and research
 - [understand-project](https://github.com/wutongyuonce/understand-project) - Agent Skill for Better Understanding Projects
 - [pr-lifecycle](https://github.com/wutongyuonce/pr-lifecycle) - Treat a PR as a converging contract — SPEC, design, implementation, review, and test ablation
 
-### Pi Ecosystem
+#### Pi Ecosystem
 
 - [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - In-depth analysis and source-code exploration of pi-coding-agent
 - [pi-extensions](https://github.com/wutongyuonce/pi-extensions) - My personal collection of pi-extensions
