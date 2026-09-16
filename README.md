@@ -188,6 +188,7 @@
 | [#1604](https://github.com/oceanbase/powercontext/pull/1604) | [feat(pi): add artifact inspection tools](https://github.com/oceanbase/powercontext/commit/9ff03eedffe6e73a54bb3adf40d42badd7cacdf7) |
 | [#1608](https://github.com/oceanbase/powercontext/pull/1608) | [feat(pi): add Topic Memory read tools](https://github.com/oceanbase/powercontext/commit/13518e4d8a49c1e19d3ed2dd61b31c248c426a0e) |
 | [#1617](https://github.com/oceanbase/powercontext/pull/1617) | [feat(pi): add structured work continuity tools](https://github.com/oceanbase/powercontext/commit/5ea71260c59f454223e4569d11175ad62eea95d1) |
+| [#1626](https://github.com/oceanbase/powercontext/pull/1626) | [feat(pi): add external skill tools](https://github.com/oceanbase/powercontext/commit/fa1e7d26bbe93918dde0f58246041b8b54f8938d) |
 
 </details>
 
