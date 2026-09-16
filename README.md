@@ -1,18 +1,18 @@
 # Hi, I'm 梧桐雨🐺 👋
 
+**I love coding and designing elegant systems.**
+
+- 🤖 **Exploring**: Long-Horizon Harness & Long-term Memory & Agent Infra(Sandbox、Computer Use）
+- 🎓 **Education**: IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for an MS in CS @ HKU / CUHK / HKUST
+- 🧑‍💻 **Internship**: prev @GIAN
+- 🌐 **Links**: visit my blog [here](https://www.wutongyu.site) or reach me on <a href="https://x.com/Yu2002964143523"><img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X"></a>
+
 <a href="https://ghfind.com/u/wutongyuonce?ref=badge">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/wutongyuonce?variant=radar&theme=dark&lang=zh" />
     <img src="https://ghfind.com/api/card/mini/wutongyuonce?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
-
-#### I love coding and designing elegant systems.
-
-- 🤖 **Exploring**: Long-Horizon Harness & Long-term Memory & Agent Infra(Sandbox、Computer Use）
-- 🎓 **Education**: IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for an MS in CS @ HKU / CUHK / HKUST
-- 🧑‍💻 **Internship**: prev @GIAN
-- 🌐 **Links**: visit my blog [here](https://www.wutongyu.site) or reach me on <a href="https://x.com/Yu2002964143523"><img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X"></a>
 
 <div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px">
