@@ -170,6 +170,8 @@
 | PR | Commit |
 | :-: | --- |
 | [#5308](https://github.com/apache/maka/pull/5308) | [feat(cli): unify external session imports through Host](https://github.com/apache/maka/commit/842667676a8c02673ddbf2f7a18f224860fae088) |
+| [#5407](https://github.com/apache/maka/pull/5407) | [fix(runtime-host): isolate staged import recovery]() |
+| [#5413](https://github.com/apache/maka/pull/5413) | [fix(import): harden external session boundaries]() |
 
 </details>
 
