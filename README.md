@@ -46,6 +46,29 @@
 
 <details>
 <summary>
+  <a href="https://github.com/earendil-works/pi">pi</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold">
+  &nbsp;·&nbsp; 6 PRs
+  &nbsp;·&nbsp; Extensible AI coding agent and development toolkit
+</summary>
+
+<br>
+
+| PR | Commit |
+| :-: | --- |
+| [#8985](https://github.com/earendil-works/pi/pull/8985) | [fix(coding-agent): avoid overwriting imported sessions](https://github.com/earendil-works/pi/commit/1a773c8e7a535e35a15e9babc37231e515b18794) |
+| [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments](https://github.com/earendil-works/pi/commit/c6b00676b8fea5e8e2bddd618943c6e73a38c9b3) |
+| [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares](https://github.com/earendil-works/pi/commit/6f35de5b598037c28e05f52e23a00301e1275819) |
+| [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
+| [#9434](https://github.com/earendil-works/pi/pull/9434) | [feat(coding-agent): allow extensions to append to the session system prompt]() |
+| [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions]() |
+| [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
+
+</details>
+
+<details>
+<summary>
   <a href="https://github.com/NevaMind-AI/memU">memU</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat&color=gold">
@@ -132,29 +155,6 @@
 | PR | Commit |
 | :-: | --- |
 | [#7](https://github.com/deerwork-ai/deer-workflow/pull/7) | [feat: support Pi Coding Agent 0.84.1](https://github.com/deerwork-ai/deer-workflow/commit/b20823012eeec15d41f4969f09964401e00f56e0) |
-
-</details>
-
-<details>
-<summary>
-  <a href="https://github.com/earendil-works/pi">pi</a>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold">
-  &nbsp;·&nbsp; 6 PRs
-  &nbsp;·&nbsp; Extensible AI coding agent and development toolkit
-</summary>
-
-<br>
-
-| PR | Commit |
-| :-: | --- |
-| [#9434](https://github.com/earendil-works/pi/pull/9434) | [feat(coding-agent): allow extensions to append to the session system prompt]() |
-| [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions]() |
-| [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
-| [#8985](https://github.com/earendil-works/pi/pull/8985) | [fix(coding-agent): avoid overwriting imported sessions](https://github.com/earendil-works/pi/commit/1a773c8e7a535e35a15e9babc37231e515b18794) |
-| [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments](https://github.com/earendil-works/pi/commit/c6b00676b8fea5e8e2bddd618943c6e73a38c9b3) |
-| [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares](https://github.com/earendil-works/pi/commit/6f35de5b598037c28e05f52e23a00301e1275819) |
-| [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 
 </details>
 
