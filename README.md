@@ -23,8 +23,6 @@
 
 - [YuBlog](https://github.com/wutongyuonce/YuBlog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/YuBlog?style=flat&color=gold)](https://github.com/wutongyuonce/YuBlog) - A minimalistic Antfu-style Astro blog theme
 - [RepoMirror](https://github.com/wutongyuonce/repo-mirror) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
-- [skills](https://github.com/wutongyuonce/skills) - My personal collection of AI Agent Skills, covering development, design, and research
-- [understand-project](https://github.com/wutongyuonce/understand-project) - Agent Skill for Better Understanding Projects
 
 ### Agent
 
@@ -32,6 +30,12 @@
 - [XingClaw](https://github.com/wutongyuonce/XingClaw) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python
 - [Replica](https://github.com/wutongyuonce/Replica) - Memory Layer for AI, built with FastAPI, React, PostgreSQL, and pgvector
 - [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) - A RAG Web application based on [PageIndex](https://github.com/VectifyAI/PageIndex)
+
+### Skills
+
+- [skills](https://github.com/wutongyuonce/skills) - My personal collection of AI Agent Skills, covering development, design, and research
+- [understand-project](https://github.com/wutongyuonce/understand-project) - Agent Skill for Better Understanding Projects
+- [pr-lifecycle](https://github.com/wutongyuonce/pr-lifecycle) - Treat a PR as a converging contract — SPEC, design, implementation, review, and test ablation
 
 ### Pi Ecosystem
 
@@ -163,7 +167,7 @@
   <a href="https://github.com/apache/maka">maka</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/apache/maka?style=flat&color=gold">
-  &nbsp;·&nbsp; 1 PR
+  &nbsp;·&nbsp; 3 PRs
   &nbsp;·&nbsp; Agent that keeps a complete record of everything it did
 </summary>
 
@@ -180,7 +184,7 @@
   <a href="https://github.com/oceanbase/powercontext">powercontext</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/oceanbase/powercontext?style=flat&color=gold">
-  &nbsp;·&nbsp; 6 PRs
+  &nbsp;·&nbsp; 7 PRs
   &nbsp;·&nbsp; Context for work that humans and agents hand off and continue
 </summary>
 
@@ -193,6 +197,7 @@
 | [#1621](https://github.com/oceanbase/powercontext/pull/1621) | [feat(pi): add experience and skill generation tools]() |
 | [#1625](https://github.com/oceanbase/powercontext/pull/1625) | [feat(pi): add artifact candidate review tools](https://github.com/oceanbase/powercontext/commit/534460e068ef733ec22a672b838734635fa1677e) |
 | [#1626](https://github.com/oceanbase/powercontext/pull/1626) | [feat(pi): add external skill tools](https://github.com/oceanbase/powercontext/commit/fa1e7d26bbe93918dde0f58246041b8b54f8938d) |
+| [#1633](https://github.com/oceanbase/powercontext/pull/1633) | [feat(pi): add Memory Changes and Stats tools]() |
 
 </details>
 
