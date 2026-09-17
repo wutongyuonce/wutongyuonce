@@ -9,8 +9,8 @@
 
 <a href="https://ghfind.com/u/wutongyuonce?ref=badge">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/wutongyuonce?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/wutongyuonce?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/wutongyuonce?theme=dark&lang=zh" />
+    <img src="https://ghfind.com/api/card/mini/wutongyuonce?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
 
