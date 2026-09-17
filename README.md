@@ -98,7 +98,7 @@
   <a href="https://github.com/volcengine/OpenViking">OpenViking</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/volcengine/OpenViking?style=flat&color=gold">
-  &nbsp;·&nbsp; 8 PRs
+  &nbsp;·&nbsp; 9 PRs
   &nbsp;·&nbsp; Context database and infrastructure for AI agents
 </summary>
 
@@ -114,6 +114,7 @@
 | [#4089](https://github.com/volcengine/OpenViking/pull/4089) | [chore: remove dead git tuning knobs and duplicate release/frontend files](https://github.com/volcengine/OpenViking/commit/7e7ad2e1f6f35a11646620618b2411f0a3905ecf) |
 | [#4614](https://github.com/volcengine/OpenViking/pull/4614) | [feat(bot): bound concurrent subagents](https://github.com/volcengine/OpenViking/commit/a8380147a23d9fd97ee5457c109478d235eaded9) |
 | [#4733](https://github.com/volcengine/OpenViking/pull/4733) | [fix(bot): atomically persist cron store](https://github.com/volcengine/OpenViking/commit/d3bdd5494e679b5775f8ca9087ad6e2bb2af42f3) |
+| [#4787](https://github.com/volcengine/OpenViking/pull/4787) | [feat(plugins): add Kimi Code CLI memory plugin]() |
 
 </details>
 
@@ -184,7 +185,7 @@
   <a href="https://github.com/oceanbase/powercontext">powercontext</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/oceanbase/powercontext?style=flat&color=gold">
-  &nbsp;·&nbsp; 7 PRs
+  &nbsp;·&nbsp; 8 PRs
   &nbsp;·&nbsp; Context for work that humans and agents hand off and continue
 </summary>
 
@@ -198,6 +199,7 @@
 | [#1625](https://github.com/oceanbase/powercontext/pull/1625) | [feat(pi): add artifact candidate review tools](https://github.com/oceanbase/powercontext/commit/534460e068ef733ec22a672b838734635fa1677e) |
 | [#1626](https://github.com/oceanbase/powercontext/pull/1626) | [feat(pi): add external skill tools](https://github.com/oceanbase/powercontext/commit/fa1e7d26bbe93918dde0f58246041b8b54f8938d) |
 | [#1633](https://github.com/oceanbase/powercontext/pull/1633) | [feat(pi): add Memory Changes and Stats tools](https://github.com/oceanbase/powercontext/commit/037dc2f2a13a4e04a3e99aaccaa8e4a809803a2f) |
+| [#1639](https://github.com/oceanbase/powercontext/pull/1639) | [feat(pi): promote integration to Full profile](https://github.com/oceanbase/powercontext/commit/7ea6dbb6e91ded21d03f7974d583f2f6c2bf6c72) |
 
 </details>
 
@@ -282,7 +284,6 @@
 |  | [#4660](https://github.com/volcengine/OpenViking/pull/4660) | feat(bot): deliver send:// generated images on Telegram, Discord, and Slack |
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
-|  | [#4787](https://github.com/volcengine/OpenViking/pull/4787) | feat(plugins): add Kimi Code CLI memory plugin |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
 | [maka](https://github.com/apache/maka) | [#5051](https://github.com/apache/maka/pull/5051) | feat(computer-use): move overlay cursor for set_value and press_key |
 |  | [#5052](https://github.com/apache/maka/pull/5052) | feat(computer-use): keep overlay cursor elevated when the aim point is covered |
