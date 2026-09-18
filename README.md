@@ -21,30 +21,30 @@
 
 ## Building
 
-- [YuBlog](https://github.com/wutongyuonce/YuBlog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/YuBlog?style=flat&color=gold)](https://github.com/wutongyuonce/YuBlog) - A black-white minimalistic open-source Astro blog theme
-- [RepoMirror](https://github.com/wutongyuonce/repo-mirror) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
+- [YuBlog](https://github.com/wutongyuonce/YuBlog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/YuBlog?style=flat&color=gold)](https://github.com/wutongyuonce/YuBlog) - 黑白极简 Astro 开源博客主题
+- [RepoMirror](https://github.com/wutongyuonce/repo-mirror) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - 将 GitHub 仓库或仓库子目录镜像到本地文件夹树的 macOS 桌面应用
 
 #### Agent
 
 - [Trajex](https://github.com/wutongyuonce/Trajex) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you
-- [XingClaw](https://github.com/wutongyuonce/XingClaw) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - Building a Complete AI Programming Assistant System from Scratch with Python
+- [XingClaw](https://github.com/wutongyuonce/XingClaw) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - miniopenclaw
 - [Replica](https://github.com/wutongyuonce/Replica) - Memory Layer for AI, built with FastAPI, React, PostgreSQL, and pgvector
 - [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) - A RAG Web application based on [PageIndex](https://github.com/VectifyAI/PageIndex)
 
 #### Skills
 
-- [skills](https://github.com/wutongyuonce/skills) - My personal collection of AI Agent Skills, covering development, design, and research
+- [skills](https://github.com/wutongyuonce/skills) - 我平时使用的 Skill 集合，涵盖开发、设计和研究
 - [understand-project](https://github.com/wutongyuonce/understand-project) - Agent Skill for Better Understanding Projects
 - [pr-lifecycle](https://github.com/wutongyuonce/pr-lifecycle) - Treat a PR as a converging contract — SPEC, design, implementation, review, and test ablation
 
 #### Pi Ecosystem
 
 - [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - In-depth analysis and source-code exploration of pi-coding-agent
-- [pi-extensions](https://github.com/wutongyuonce/pi-extensions) - My personal collection of pi-extensions
+- [pi-extensions](https://github.com/wutongyuonce/pi-extensions) - 我平时使用和推荐的 pi 扩展集合
 - [pi-repomap](https://github.com/wutongyuonce/pi-repomap) - A Tree-sitter-powered codebase structure awareness extension for Pi
 - [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) - A Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) extension for Pi
-- [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - A context offloading extension for Pi, moving oversized tool results into session sidecar files for on-demand retrieval
-- [pi-zen-mode](https://github.com/wutongyuonce/pi-zen-mode) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-zen-mode?style=flat&color=gold)](https://github.com/wutongyuonce/pi-zen-mode) - Distraction-free focus mode for Pi — nothing while it runs, only the final answer when it's done
+- [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - Pi的上下文卸载扩展，将超大工具结果移至会话侧边文件，按需检索
+- [pi-zen-mode](https://github.com/wutongyuonce/pi-zen-mode) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-zen-mode?style=flat&color=gold)](https://github.com/wutongyuonce/pi-zen-mode) - pi 的极简模式扩展
 
 ## Main Contributions (merged PRs)
 
