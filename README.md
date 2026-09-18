@@ -21,7 +21,7 @@
 
 ## Building
 
-- [YuBlog](https://github.com/wutongyuonce/YuBlog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/YuBlog?style=flat&color=gold)](https://github.com/wutongyuonce/YuBlog) - A minimalistic Antfu-style Astro blog theme
+- [YuBlog](https://github.com/wutongyuonce/YuBlog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/YuBlog?style=flat&color=gold)](https://github.com/wutongyuonce/YuBlog) - A black-white minimalistic open-source Astro blog theme
 - [RepoMirror](https://github.com/wutongyuonce/repo-mirror) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - A minimal macOS desktop app for mirroring GitHub repositories or repository subdirectories into a local folder tree
 
 #### Agent
