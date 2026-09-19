@@ -167,7 +167,7 @@
   <a href="https://github.com/apache/maka">maka</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/apache/maka?style=flat&color=gold">
-  &nbsp;·&nbsp; 3 PRs
+  &nbsp;·&nbsp; 5 PRs
   &nbsp;·&nbsp; Agent that keeps a complete record of everything it did
 </summary>
 
@@ -176,6 +176,8 @@
 | [#5308](https://github.com/apache/maka/pull/5308) | [feat(cli): unify external session imports through Host](https://github.com/apache/maka/commit/842667676a8c02673ddbf2f7a18f224860fae088) |
 | [#5407](https://github.com/apache/maka/pull/5407) | [fix(runtime-host): isolate staged import recovery](https://github.com/apache/maka/commit/0169d0731d476e70ad2afb6cd7fc97e5980120f8) |
 | [#5413](https://github.com/apache/maka/pull/5413) | [fix(import): harden external session boundaries]() |
+| [#5070](https://github.com/apache/maka/pull/5070) | [feat(mcp): forward tools/call progress to Host]() |
+| [#5073](https://github.com/apache/maka/pull/5073) | [fix(mcp): advertise Apache identity in OAuth DCR]() |
 
 </details>
 
@@ -288,7 +290,6 @@
 |  | [#5052](https://github.com/apache/maka/pull/5052) | feat(computer-use): keep overlay cursor elevated when the aim point is covered |
 |  | [#5053](https://github.com/apache/maka/pull/5053) | feat(computer-use): show snapshot selected text in model observations |
 |  | [#5054](https://github.com/apache/maka/pull/5054) | feat(runtime): add Gemini Google Search grounding |
-|  | [#5070](https://github.com/apache/maka/pull/5070) | feat(mcp): forward tools/call progress to Host |
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
 
 </details>
