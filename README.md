@@ -36,6 +36,7 @@
 - [skills](https://github.com/wutongyuonce/skills) - 我平时使用的 Skill 集合，涵盖开发、设计和研究
 - [understand-project](https://github.com/wutongyuonce/understand-project) - Agent Skill for Better Understanding Projects
 - [pr-lifecycle](https://github.com/wutongyuonce/pr-lifecycle) - Treat a PR as a converging contract — SPEC, design, implementation, review, and test ablation
+- [x-article-publisher-skill](https://github.com/wutongyuonce/x-article-publisher-skill) - Publish Markdown articles to X (Twitter) Articles
 
 #### Pi Ecosystem
 
