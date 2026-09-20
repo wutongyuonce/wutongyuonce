@@ -288,7 +288,7 @@
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
 | [maka](https://github.com/apache/maka) | [#5051](https://github.com/apache/maka/pull/5051) | feat(computer-use): move overlay cursor for set_value and press_key |
 |  | [#5052](https://github.com/apache/maka/pull/5052) | feat(computer-use): keep overlay cursor elevated when the aim point is covered |
-|  | [#5053](https://github.com/apache/maka/pull/5053) | feat(computer-use): show snapshot selected text in model observations |
+|  | [#5050](https://github.com/apache/maka/pull/5050) | feat(computer-use): show snapshot selected text in model observations |
 |  | [#5054](https://github.com/apache/maka/pull/5054) | feat(runtime): add Gemini Google Search grounding |
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
 
