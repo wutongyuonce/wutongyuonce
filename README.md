@@ -176,8 +176,11 @@
 | [#5308](https://github.com/apache/maka/pull/5308) | [feat(cli): unify external session imports through Host](https://github.com/apache/maka/commit/842667676a8c02673ddbf2f7a18f224860fae088) |
 | [#5407](https://github.com/apache/maka/pull/5407) | [fix(runtime-host): isolate staged import recovery](https://github.com/apache/maka/commit/0169d0731d476e70ad2afb6cd7fc97e5980120f8) |
 | [#5413](https://github.com/apache/maka/pull/5413) | [fix(import): harden external session boundaries](https://github.com/apache/maka/commit/e108ab8222d321e1dfadc1d037c0d2be6ce7b339) |
-| [#5070](https://github.com/apache/maka/pull/5070) | [feat(mcp): forward tools/call progress to Host]() |
-| [#5073](https://github.com/apache/maka/pull/5073) | [fix(mcp): advertise Apache identity in OAuth DCR]() |
+| [#5070](https://github.com/apache/maka/pull/5070) | [feat(mcp): forward tools/call progress to Host](https://github.com/apache/maka/commit/0d09c5f0ffa6ae805e578b1839ae5f17ee8ebd46) |
+| [#5073](https://github.com/apache/maka/pull/5073) | [fix(mcp): advertise Apache identity in OAuth DCR](https://github.com/apache/maka/commit/1c217a5c528d5f967686199959bcf82a84d660a8) |
+| [#5051](https://github.com/apache/maka/pull/5051) | [feat(computer-use): move overlay cursor for set_value and press_key]() |
+| [#5052](https://github.com/apache/maka/pull/5052) | [feat(computer-use): keep overlay cursor elevated when the aim point is covered]() |
+| [#5050](https://github.com/apache/maka/pull/5050) | [feat(computer-use): show snapshot selected text in model observations]() |
 
 </details>
 
@@ -286,10 +289,7 @@
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
-| [maka](https://github.com/apache/maka) | [#5051](https://github.com/apache/maka/pull/5051) | feat(computer-use): move overlay cursor for set_value and press_key |
-|  | [#5052](https://github.com/apache/maka/pull/5052) | feat(computer-use): keep overlay cursor elevated when the aim point is covered |
-|  | [#5050](https://github.com/apache/maka/pull/5050) | feat(computer-use): show snapshot selected text in model observations |
-|  | [#5054](https://github.com/apache/maka/pull/5054) | feat(runtime): add Gemini Google Search grounding |
+| [maka](https://github.com/apache/maka) | [#5054](https://github.com/apache/maka/pull/5054) | feat(runtime): add Gemini Google Search grounding |
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
 
 </details>
