@@ -167,7 +167,7 @@
   <a href="https://github.com/apache/maka">maka</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/apache/maka?style=flat&color=gold">
-  &nbsp;·&nbsp; 5 PRs
+  &nbsp;·&nbsp; 8 PRs
   &nbsp;·&nbsp; Agent that keeps a complete record of everything it did
 </summary>
 
