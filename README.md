@@ -181,6 +181,8 @@
 | [#5051](https://github.com/apache/maka/pull/5051) | [feat(computer-use): move overlay cursor for set_value and press_key]() |
 | [#5052](https://github.com/apache/maka/pull/5052) | [feat(computer-use): keep overlay cursor elevated when the aim point is covered]() |
 | [#5050](https://github.com/apache/maka/pull/5050) | [feat(computer-use): show snapshot selected text in model observations]() |
+| [#5598](https://github.com/apache/maka/pull/5598) | [feat(runtime): resolve relative image sources in WebFetch Markdown output]() |
+| [#5599](https://github.com/apache/maka/pull/5598) | [feat(runtime): report Glob truncation instead of stopping silently]() |
 
 </details>
 
@@ -289,7 +291,6 @@
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
-| [maka](https://github.com/apache/maka) | [#5054](https://github.com/apache/maka/pull/5054) | feat(runtime): add Gemini Google Search grounding |
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
 
 </details>
