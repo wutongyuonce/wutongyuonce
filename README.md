@@ -7,6 +7,8 @@
 - 🧑‍💻 **Internship**: prev @GIAN
 - 🌐 **Links**: visit my blog [here](https://www.wutongyu.site) or reach me on <a href="https://x.com/Yu2002964143523"><img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X"></a>
 
+*正在找 agent 相关实习，欢迎联系 18896680730@163.com*
+
 <a href="https://ghfind.com/u/wutongyuonce?ref=badge">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/wutongyuonce?variant=radar&theme=dark&lang=zh" />
