@@ -169,7 +169,7 @@
   <a href="https://github.com/apache/maka">maka</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/apache/maka?style=flat&color=gold">
-  &nbsp;·&nbsp; 8 PRs
+  &nbsp;·&nbsp; 11 PRs
   &nbsp;·&nbsp; Agent that keeps a complete record of everything it did
 </summary>
 
@@ -185,6 +185,7 @@
 | [#5050](https://github.com/apache/maka/pull/5050) | [feat(computer-use): show snapshot selected text in model observations]() |
 | [#5598](https://github.com/apache/maka/pull/5598) | [feat(runtime): resolve relative image sources in WebFetch Markdown output]() |
 | [#5599](https://github.com/apache/maka/pull/5598) | [feat(runtime): report Glob truncation instead of stopping silently]() |
+| [#5628](https://github.com/apache/maka/pull/5628) | [perf(desktop): update onboarding from targeted Session reads]() |
 
 </details>
 
@@ -292,6 +293,7 @@
 |  | [#4660](https://github.com/volcengine/OpenViking/pull/4660) | feat(bot): deliver send:// generated images on Telegram, Discord, and Slack |
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
+|  | [#5338](https://github.com/volcengine/OpenViking/pull/5338) | perf(reindex): parallelize resource directory vector admission |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
 | [AstrBot](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
 
