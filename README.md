@@ -115,7 +115,7 @@
 | [#4089](https://github.com/volcengine/OpenViking/pull/4089) | [chore: remove dead git tuning knobs and duplicate release/frontend files](https://github.com/volcengine/OpenViking/commit/7e7ad2e1f6f35a11646620618b2411f0a3905ecf) |
 | [#4614](https://github.com/volcengine/OpenViking/pull/4614) | [feat(bot): bound concurrent subagents](https://github.com/volcengine/OpenViking/commit/a8380147a23d9fd97ee5457c109478d235eaded9) |
 | [#4733](https://github.com/volcengine/OpenViking/pull/4733) | [fix(bot): atomically persist cron store](https://github.com/volcengine/OpenViking/commit/d3bdd5494e679b5775f8ca9087ad6e2bb2af42f3) |
-| [#4787](https://github.com/volcengine/OpenViking/pull/4787) | [feat(plugins): add Kimi Code CLI memory plugin]() |
+| [#4787](https://github.com/volcengine/OpenViking/pull/4787) | [feat(plugins): add Kimi Code CLI memory plugin](https://github.com/volcengine/OpenViking/commit/03391bae4335eacf440a62d942f3951de6a63cbe) |
 
 </details>
 
