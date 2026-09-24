@@ -4,7 +4,7 @@
 
 - 🤖 **Exploring**: Long-Horizon Harness & Long-term Memory & Agent Infra(Sandbox、Computer Use）
 - 🎓 **Education**: IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ Applying for an MS in CS @ HKU / CUHK / HKUST
-- 🧑‍💻 **Internship**: prev @GIAN
+- 🧑‍💻 **Internship**: prev @GIAN - agent development
 - 🌐 **Links**: visit my blog [here](https://www.wutongyu.site) or reach me on <a href="https://x.com/Yu2002964143523"><img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X"></a>
 
 *正在找 agent 相关实习，欢迎联系 18896680730@163.com*
@@ -296,6 +296,5 @@
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 |  | [#5338](https://github.com/volcengine/OpenViking/pull/5338) | perf(reindex): parallelize resource directory vector admission |
 | [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
-| [AstrBot](https://github.com/AstrBotDevs/AstrBot) | [#10039](https://github.com/AstrBotDevs/AstrBot/pull/10039) | feat: support PPTX uploads in knowledge base |
 
 </details>
