@@ -183,9 +183,9 @@
 | [#5051](https://github.com/apache/maka/pull/5051) | [feat(computer-use): move overlay cursor for set_value and press_key]() |
 | [#5052](https://github.com/apache/maka/pull/5052) | [feat(computer-use): keep overlay cursor elevated when the aim point is covered]() |
 | [#5050](https://github.com/apache/maka/pull/5050) | [feat(computer-use): show snapshot selected text in model observations]() |
-| [#5598](https://github.com/apache/maka/pull/5598) | [feat(runtime): resolve relative image sources in WebFetch Markdown output]() |
+| [#5598](https://github.com/apache/maka/pull/5598) | [feat(runtime): resolve relative image sources in WebFetch Markdown output](https://github.com/apache/maka/commit/fd490b7f0e267a39352714debc3993302d918476) |
 | [#5599](https://github.com/apache/maka/pull/5598) | [feat(runtime): report Glob truncation instead of stopping silently]() |
-| [#5628](https://github.com/apache/maka/pull/5628) | [perf(desktop): update onboarding from targeted Session reads]() |
+| [#5628](https://github.com/apache/maka/pull/5628) | [perf(desktop): update onboarding from targeted Session reads](https://github.com/apache/maka/commit/fb9df6c3dbbc449b8ff54dd4b608cc04381d3d81) |
 
 </details>
 
