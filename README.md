@@ -36,8 +36,9 @@
 #### Skills
 
 - [skills](https://github.com/wutongyuonce/skills) - 我平时使用的 Skill 集合，涵盖开发、设计和研究
-- [understand-project](https://github.com/wutongyuonce/understand-project) - Agent Skill for Better Understanding Projects
-- [pr-lifecycle](https://github.com/wutongyuonce/pr-lifecycle) - Treat a PR as a converging contract — SPEC, design, implementation, review, and test ablation
+- [understand-project](https://github.com/wutongyuonce/understand-project) - 从整体架构、运行形态和真实数据链路读懂项目，并指导源码阅读与二次开发
+- [pr-lifecycle](https://github.com/wutongyuonce/pr-lifecycle) - 把 PR 当作持续收敛的契约：覆盖 SPEC、设计、实现、review、测试消融与最终审查的 Agent Skill
+- [video2article](https://github.com/wutongyuonce/video2article) - 把视频/播客重写成「阅读版本」文章的 Agent Skill：YouTube 字幕、小宇宙官方逐字稿、本地 ASR
 
 #### Pi Ecosystem
 
