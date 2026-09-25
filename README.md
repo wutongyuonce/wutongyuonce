@@ -29,9 +29,7 @@
 #### Agent
 
 - [Trajex](https://github.com/wutongyuonce/Trajex) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you
-- [XingClaw](https://github.com/wutongyuonce/XingClaw) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/XingClaw?style=flat&color=gold)](https://github.com/wutongyuonce/Xingclaw) - miniopenclaw
-- [Replica](https://github.com/wutongyuonce/Replica) - Memory Layer for AI, built with FastAPI, React, PostgreSQL, and pgvector
-- [PageIndexRag-Web](https://github.com/wutongyuonce/PageIndexRag-Web) - A RAG Web application based on [PageIndex](https://github.com/VectifyAI/PageIndex)
+- [Pai](https://github.com/wutongyuonce/Pai) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Pai?style=flat&color=gold)](https://github.com/wutongyuonce/Pai) - miniPi
 
 #### Skills
 
@@ -45,9 +43,9 @@
 - [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - In-depth analysis and source-code exploration of pi-coding-agent
 - [pi-extensions](https://github.com/wutongyuonce/pi-extensions) - 我平时使用和推荐的 pi 扩展集合
 - [pi-repomap](https://github.com/wutongyuonce/pi-repomap) - A Tree-sitter-powered codebase structure awareness extension for Pi
-- [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) - A Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) extension for Pi
 - [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - Pi的上下文卸载扩展，将超大工具结果移至会话侧边文件，按需检索
 - [pi-zen-mode](https://github.com/wutongyuonce/pi-zen-mode) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-zen-mode?style=flat&color=gold)](https://github.com/wutongyuonce/pi-zen-mode) - pi 的极简模式扩展
+- [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) - A Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) extension for Pi
 
 ## Main Contributions (merged PRs)
 
