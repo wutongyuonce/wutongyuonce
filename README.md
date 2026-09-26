@@ -283,6 +283,24 @@
 </details>
 
 <details>
+<summary>
+  <a href="https://github.com/datawhalechina/deepagents-in-action">deepagents-in-action</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/datawhalechina/deepagents-in-action?style=flat&color=gold">
+  &nbsp;·&nbsp; 2 PRs
+  &nbsp;·&nbsp; datawhale deepagents book
+</summary>
+
+<br>
+
+| PR | Commit |
+| :-: | --- |
+| [#127](https://github.com/datawhalechina/deepagents-in-action/pull/127) | [docs: 新增第 5 章子 Agent 委派与上下文隔离 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/9dc975a40e656c1ec3474dace8e3bc613b843f5c) |
+| [#129](https://github.com/datawhalechina/deepagents-in-action/pull/129) | [docs: add ch06 async subagent lifecycle notebook](https://github.com/datawhalechina/deepagents-in-action/commit/e92f8325ba78a30b45919684db3f2edecf5fe8e7) |
+
+</details>
+
+<details>
 <summary>Unmerged PRs</summary>
 
 | Project | PR | Title |
