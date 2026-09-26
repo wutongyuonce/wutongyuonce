@@ -287,7 +287,7 @@
   <a href="https://github.com/datawhalechina/deepagents-in-action">deepagents-in-action</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/datawhalechina/deepagents-in-action?style=flat&color=gold">
-  &nbsp;·&nbsp; 2 PRs
+  &nbsp;·&nbsp; 4 PRs
   &nbsp;·&nbsp; datawhale deepagents book
 </summary>
 
