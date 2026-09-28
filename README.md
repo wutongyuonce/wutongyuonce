@@ -40,14 +40,16 @@
 
 #### Pi Ecosystem
 
-- [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - In-depth analysis and source-code exploration of pi-coding-agent
+- [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - pi 架构与源码解析教程
 - [pi-extensions](https://github.com/wutongyuonce/pi-extensions) - 我平时使用和推荐的 pi 扩展集合
-- [pi-repomap](https://github.com/wutongyuonce/pi-repomap) - A Tree-sitter-powered codebase structure awareness extension for Pi
-- [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - Pi的上下文卸载扩展，将超大工具结果移至会话侧边文件，按需检索
+- [pi-repomap](https://github.com/wutongyuonce/pi-repomap) - pi 的 Tree-sitter 代码库分析扩展
+- [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - pi 的上下文卸载扩展，将超大工具结果移至会话侧边文件，按需检索
 - [pi-zen-mode](https://github.com/wutongyuonce/pi-zen-mode) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-zen-mode?style=flat&color=gold)](https://github.com/wutongyuonce/pi-zen-mode) - pi 的极简模式扩展
-- [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) - A Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) extension for Pi
+- [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) - pi 的 Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) 扩展
 
 ## Main Contributions (merged PRs)
+
+#### Agent Harness
 
 <details>
 <summary>
@@ -68,53 +70,6 @@
 | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions](https://github.com/earendil-works/pi/commit/21b8cc1a4b84786aa08400fb4dbb6a92a5891fd6) |
 | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
-
-</details>
-
-<details>
-<summary>
-  <a href="https://github.com/NevaMind-AI/memU">memU</a>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat&color=gold">
-  &nbsp;·&nbsp; 6 PRs
-  &nbsp;·&nbsp; Memory infrastructure for AI agents
-</summary>
-
-<br>
-
-| PR | Commit |
-| :-: | --- |
-| [#643](https://github.com/NevaMind-AI/memU/pull/643) | [fix(hosts): write instructions atomically](https://github.com/NevaMind-AI/memU/commit/aec07c3bd001e560a9f20e77cbc0cee2f954af36) |
-| [#660](https://github.com/NevaMind-AI/memU/pull/660) | [feat(claude-code): verify Cowork source composition](https://github.com/NevaMind-AI/memU/commit/42f566aeb46e72bfb5b1274b4bcafc922ab89066) |
-| [#663](https://github.com/NevaMind-AI/memU/pull/663) | [fix(agentic): validate RecallFile pagination inputs](https://github.com/NevaMind-AI/memU/commit/abb11480e69cec9ca35d954b1c1ffc83ef11c100) |
-| [#675](https://github.com/NevaMind-AI/memU/pull/675) | [feat(hosts): add pi coding agent adapter](https://github.com/NevaMind-AI/memU/commit/37cc4e161a59fa7280870cd1fb9da28ace3b661d) |
-| [#693](https://github.com/NevaMind-AI/memU/pull/693) | [fix(vector): skip empty and wrong-dimension rows in cosine_topk](https://github.com/NevaMind-AI/memU/commit/6e78919b60f0abfb1888f87220cb4784ff21b41e) |
-| [#694](https://github.com/NevaMind-AI/memU/pull/694) | [perf(retrieve): scope file roll-up to hit files via id__in](https://github.com/NevaMind-AI/memU/commit/385bdb30cda7f5265368934b8008ce2b73283283) |
-
-</details>
-
-<details>
-<summary>
-  <a href="https://github.com/volcengine/OpenViking">OpenViking</a>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/volcengine/OpenViking?style=flat&color=gold">
-  &nbsp;·&nbsp; 9 PRs
-  &nbsp;·&nbsp; Context database and infrastructure for AI agents
-</summary>
-
-<br>
-
-| PR | Commit |
-| :-: | --- |
-| [#4064](https://github.com/volcengine/OpenViking/pull/4064) | [fix(bot): normalize cron one-shot datetimes](https://github.com/volcengine/OpenViking/commit/492235de86178e5e15597809c1e5429bbaa216ca) |
-| [#4081](https://github.com/volcengine/OpenViking/pull/4081) | [fix(privacy): serialize config mutations under pathlock and propagate storage errors](https://github.com/volcengine/OpenViking/commit/b759068924c459473f5bea032950ae27049f95cd) |
-| [#4083](https://github.com/volcengine/OpenViking/pull/4083) | [fix(ragfs): return config error instead of panicking when pathlock manager is missing](https://github.com/volcengine/OpenViking/commit/d88967aaeb969106ed3e77249bb3ef8248a03ebb) |
-| [#4085](https://github.com/volcengine/OpenViking/pull/4085) | [fix(cli): exec npm shebang wrappers instead of skipping all shebang files](https://github.com/volcengine/OpenViking/commit/d436baa23c83938b22bb0aab08b0ce48568b5ff4) |
-| [#4087](https://github.com/volcengine/OpenViking/pull/4087) | [test: fix root collection boundary and CLI fixture pollution](https://github.com/volcengine/OpenViking/commit/eaa2c4a7730658a86520af7b47c68b67c7952832) |
-| [#4089](https://github.com/volcengine/OpenViking/pull/4089) | [chore: remove dead git tuning knobs and duplicate release/frontend files](https://github.com/volcengine/OpenViking/commit/7e7ad2e1f6f35a11646620618b2411f0a3905ecf) |
-| [#4614](https://github.com/volcengine/OpenViking/pull/4614) | [feat(bot): bound concurrent subagents](https://github.com/volcengine/OpenViking/commit/a8380147a23d9fd97ee5457c109478d235eaded9) |
-| [#4733](https://github.com/volcengine/OpenViking/pull/4733) | [fix(bot): atomically persist cron store](https://github.com/volcengine/OpenViking/commit/d3bdd5494e679b5775f8ca9087ad6e2bb2af42f3) |
-| [#4787](https://github.com/volcengine/OpenViking/pull/4787) | [feat(plugins): add Kimi Code CLI memory plugin](https://github.com/volcengine/OpenViking/commit/03391bae4335eacf440a62d942f3951de6a63cbe) |
 
 </details>
 
@@ -190,6 +145,80 @@
 
 <details>
 <summary>
+  <a href="https://github.com/datawhalechina/deepagents-in-action">deepagents-in-action</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/datawhalechina/deepagents-in-action?style=flat&color=gold">
+  &nbsp;·&nbsp; 9 PRs
+  &nbsp;·&nbsp; datawhale deepagents book
+</summary>
+
+<br>
+
+| PR | Commit |
+| :-: | --- |
+| [#127](https://github.com/datawhalechina/deepagents-in-action/pull/127) | [docs: 新增第 5 章子 Agent 委派与上下文隔离 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/9dc975a40e656c1ec3474dace8e3bc613b843f5c) |
+| [#129](https://github.com/datawhalechina/deepagents-in-action/pull/129) | [docs: 添加第 6 章异步子 Agent 的本地生命周期 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/e92f8325ba78a30b45919684db3f2edecf5fe8e7) |
+| [#133](https://github.com/datawhalechina/deepagents-in-action/pull/133) | [docs: 添加第 7 章 Skills 渐进式加载 Notebook]() |
+| [#134](https://github.com/datawhalechina/deepagents-in-action/pull/134) | [docs: 添加第 8 章长期记忆 Notebook]() |
+| [#135](https://github.com/datawhalechina/deepagents-in-action/pull/135) | [docs: 添加第 9 章工具审批与中断恢复 Notebook]() |
+| [#136](https://github.com/datawhalechina/deepagents-in-action/pull/136) | [docs: 添加第 10 章沙箱执行与文件传输 Notebook]() |
+| [#137](https://github.com/datawhalechina/deepagents-in-action/pull/137) | [docs: 添加第 11 章文件系统权限 Notebook]() |
+| [#132](https://github.com/datawhalechina/deepagents-in-action/pull/132) | [docs: 澄清第 6 章 Agent Server、ASGI 传输与服务启动流程](https://github.com/datawhalechina/deepagents-in-action/commit/fdb72bd426dc55bae86d64bc3fa97facdd5946b0) |
+| [#125](https://github.com/datawhalechina/deepagents-in-action/pull/125) | [docs: 修正第 1、5 章技术描述](https://github.com/datawhalechina/deepagents-in-action/commit/315505a19633c0edc8e755496d2b2e981f9704c1) |
+
+</details>
+
+#### Agent Memory
+
+<details>
+<summary>
+  <a href="https://github.com/NevaMind-AI/memU">memU</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/NevaMind-AI/memU?style=flat&color=gold">
+  &nbsp;·&nbsp; 6 PRs
+  &nbsp;·&nbsp; Memory infrastructure for AI agents
+</summary>
+
+<br>
+
+| PR | Commit |
+| :-: | --- |
+| [#643](https://github.com/NevaMind-AI/memU/pull/643) | [fix(hosts): write instructions atomically](https://github.com/NevaMind-AI/memU/commit/aec07c3bd001e560a9f20e77cbc0cee2f954af36) |
+| [#660](https://github.com/NevaMind-AI/memU/pull/660) | [feat(claude-code): verify Cowork source composition](https://github.com/NevaMind-AI/memU/commit/42f566aeb46e72bfb5b1274b4bcafc922ab89066) |
+| [#663](https://github.com/NevaMind-AI/memU/pull/663) | [fix(agentic): validate RecallFile pagination inputs](https://github.com/NevaMind-AI/memU/commit/abb11480e69cec9ca35d954b1c1ffc83ef11c100) |
+| [#675](https://github.com/NevaMind-AI/memU/pull/675) | [feat(hosts): add pi coding agent adapter](https://github.com/NevaMind-AI/memU/commit/37cc4e161a59fa7280870cd1fb9da28ace3b661d) |
+| [#693](https://github.com/NevaMind-AI/memU/pull/693) | [fix(vector): skip empty and wrong-dimension rows in cosine_topk](https://github.com/NevaMind-AI/memU/commit/6e78919b60f0abfb1888f87220cb4784ff21b41e) |
+| [#694](https://github.com/NevaMind-AI/memU/pull/694) | [perf(retrieve): scope file roll-up to hit files via id__in](https://github.com/NevaMind-AI/memU/commit/385bdb30cda7f5265368934b8008ce2b73283283) |
+
+</details>
+
+<details>
+<summary>
+  <a href="https://github.com/volcengine/OpenViking">OpenViking</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/volcengine/OpenViking?style=flat&color=gold">
+  &nbsp;·&nbsp; 9 PRs
+  &nbsp;·&nbsp; Context database and infrastructure for AI agents
+</summary>
+
+<br>
+
+| PR | Commit |
+| :-: | --- |
+| [#4064](https://github.com/volcengine/OpenViking/pull/4064) | [fix(bot): normalize cron one-shot datetimes](https://github.com/volcengine/OpenViking/commit/492235de86178e5e15597809c1e5429bbaa216ca) |
+| [#4081](https://github.com/volcengine/OpenViking/pull/4081) | [fix(privacy): serialize config mutations under pathlock and propagate storage errors](https://github.com/volcengine/OpenViking/commit/b759068924c459473f5bea032950ae27049f95cd) |
+| [#4083](https://github.com/volcengine/OpenViking/pull/4083) | [fix(ragfs): return config error instead of panicking when pathlock manager is missing](https://github.com/volcengine/OpenViking/commit/d88967aaeb969106ed3e77249bb3ef8248a03ebb) |
+| [#4085](https://github.com/volcengine/OpenViking/pull/4085) | [fix(cli): exec npm shebang wrappers instead of skipping all shebang files](https://github.com/volcengine/OpenViking/commit/d436baa23c83938b22bb0aab08b0ce48568b5ff4) |
+| [#4087](https://github.com/volcengine/OpenViking/pull/4087) | [test: fix root collection boundary and CLI fixture pollution](https://github.com/volcengine/OpenViking/commit/eaa2c4a7730658a86520af7b47c68b67c7952832) |
+| [#4089](https://github.com/volcengine/OpenViking/pull/4089) | [chore: remove dead git tuning knobs and duplicate release/frontend files](https://github.com/volcengine/OpenViking/commit/7e7ad2e1f6f35a11646620618b2411f0a3905ecf) |
+| [#4614](https://github.com/volcengine/OpenViking/pull/4614) | [feat(bot): bound concurrent subagents](https://github.com/volcengine/OpenViking/commit/a8380147a23d9fd97ee5457c109478d235eaded9) |
+| [#4733](https://github.com/volcengine/OpenViking/pull/4733) | [fix(bot): atomically persist cron store](https://github.com/volcengine/OpenViking/commit/d3bdd5494e679b5775f8ca9087ad6e2bb2af42f3) |
+| [#4787](https://github.com/volcengine/OpenViking/pull/4787) | [feat(plugins): add Kimi Code CLI memory plugin](https://github.com/volcengine/OpenViking/commit/03391bae4335eacf440a62d942f3951de6a63cbe) |
+
+</details>
+
+<details>
+<summary>
   <a href="https://github.com/oceanbase/powercontext">powercontext</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/oceanbase/powercontext?style=flat&color=gold">
@@ -228,6 +257,8 @@
 | [#4205](https://github.com/letta-ai/letta-code/pull/4205) | [fix(agent): keep memoryScope on provider-not-supported subagent retry](https://github.com/letta-ai/letta-code/commit/73145b348510edad2a3067790936eb838777d5d8) |
 
 </details>
+
+#### Others
 
 <details>
 <summary>
@@ -280,31 +311,6 @@
 | :-: | --- |
 | [#59](https://github.com/VectifyAI/OpenKB/pull/59) | [auto-propagate LLM_API_KEY to provider-specific env vars via config-driven detection](https://github.com/VectifyAI/OpenKB/commit/5e8119613758a73d597dfc6deeb91c02052b2d32) |
 | [#79](https://github.com/VectifyAI/OpenKB/pull/79) | [Eliminate duplicate wiki-tool implementations in skill/tools.py](https://github.com/VectifyAI/OpenKB/commit/947d1460bec88647c198d51de8c3f055706d64ec) |
-
-</details>
-
-<details>
-<summary>
-  <a href="https://github.com/datawhalechina/deepagents-in-action">deepagents-in-action</a>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/datawhalechina/deepagents-in-action?style=flat&color=gold">
-  &nbsp;·&nbsp; 9 PRs
-  &nbsp;·&nbsp; datawhale deepagents book
-</summary>
-
-<br>
-
-| PR | Commit |
-| :-: | --- |
-| [#127](https://github.com/datawhalechina/deepagents-in-action/pull/127) | [docs: 新增第 5 章子 Agent 委派与上下文隔离 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/9dc975a40e656c1ec3474dace8e3bc613b843f5c) |
-| [#129](https://github.com/datawhalechina/deepagents-in-action/pull/129) | [docs: 添加第 6 章异步子 Agent 的本地生命周期 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/e92f8325ba78a30b45919684db3f2edecf5fe8e7) |
-| [#133](https://github.com/datawhalechina/deepagents-in-action/pull/133) | [docs: 添加第 7 章 Skills 渐进式加载 Notebook]() |
-| [#134](https://github.com/datawhalechina/deepagents-in-action/pull/134) | [docs: 添加第 8 章长期记忆 Notebook]() |
-| [#135](https://github.com/datawhalechina/deepagents-in-action/pull/135) | [docs: 添加第 9 章工具审批与中断恢复 Notebook]() |
-| [#136](https://github.com/datawhalechina/deepagents-in-action/pull/136) | [docs: 添加第 10 章沙箱执行与文件传输 Notebook]() |
-| [#137](https://github.com/datawhalechina/deepagents-in-action/pull/137) | [docs: 添加第 11 章文件系统权限 Notebook]() |
-| [#132](https://github.com/datawhalechina/deepagents-in-action/pull/132) | [docs: 澄清第 6 章 Agent Server、ASGI 传输与服务启动流程](https://github.com/datawhalechina/deepagents-in-action/commit/fdb72bd426dc55bae86d64bc3fa97facdd5946b0) |
-| [#125](https://github.com/datawhalechina/deepagents-in-action/pull/125) | [docs: 修正第 1、5 章技术描述](https://github.com/datawhalechina/deepagents-in-action/commit/315505a19633c0edc8e755496d2b2e981f9704c1) |
 
 </details>
 
