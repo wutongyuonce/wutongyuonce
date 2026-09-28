@@ -288,7 +288,7 @@
   <a href="https://github.com/datawhalechina/deepagents-in-action">deepagents-in-action</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/datawhalechina/deepagents-in-action?style=flat&color=gold">
-  &nbsp;·&nbsp; 4 PRs
+  &nbsp;·&nbsp; 8 PRs
   &nbsp;·&nbsp; datawhale deepagents book
 </summary>
 
@@ -297,7 +297,11 @@
 | PR | Commit |
 | :-: | --- |
 | [#127](https://github.com/datawhalechina/deepagents-in-action/pull/127) | [docs: 新增第 5 章子 Agent 委派与上下文隔离 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/9dc975a40e656c1ec3474dace8e3bc613b843f5c) |
-| [#129](https://github.com/datawhalechina/deepagents-in-action/pull/129) | [docs: add ch06 async subagent lifecycle notebook](https://github.com/datawhalechina/deepagents-in-action/commit/e92f8325ba78a30b45919684db3f2edecf5fe8e7) |
+| [#129](https://github.com/datawhalechina/deepagents-in-action/pull/129) | [docs: 添加第 6 章异步子 Agent 的本地生命周期 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/e92f8325ba78a30b45919684db3f2edecf5fe8e7) |
+| [#133](https://github.com/datawhalechina/deepagents-in-action/pull/133) | [docs: 添加第 7 章 Skills 渐进式加载 Notebook]() |
+| [#134](https://github.com/datawhalechina/deepagents-in-action/pull/134) | [docs: 添加第 8 章长期记忆 Notebook]() |
+| [#135](https://github.com/datawhalechina/deepagents-in-action/pull/135) | [docs: 添加第 9 章工具审批与中断恢复 Notebook]() |
+| [#136](https://github.com/datawhalechina/deepagents-in-action/pull/136) | [docs: 添加第 10 章沙箱执行与文件传输 Notebook]() |
 | [#132](https://github.com/datawhalechina/deepagents-in-action/pull/132) | [docs: 澄清第 6 章 Agent Server、ASGI 传输与服务启动流程](https://github.com/datawhalechina/deepagents-in-action/commit/fdb72bd426dc55bae86d64bc3fa97facdd5946b0) |
 | [#125](https://github.com/datawhalechina/deepagents-in-action/pull/125) | [docs: 修正第 1、5 章技术描述](https://github.com/datawhalechina/deepagents-in-action/commit/315505a19633c0edc8e755496d2b2e981f9704c1) |
 
