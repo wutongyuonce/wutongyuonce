@@ -28,7 +28,7 @@
 
 #### Agent
 
-- [Trajex](https://github.com/wutongyuonce/Trajex) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - Past Claude Code, Codex, and Pi sessions — queryable by your agent, browsable by you
+- [Trajex](https://github.com/wutongyuonce/Trajex) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - 散落的 Claude Code、Codex 与 Pi JSONL 会话，索引至同一个 SQLite 中
 - [Pai](https://github.com/wutongyuonce/Pai) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Pai?style=flat&color=gold)](https://github.com/wutongyuonce/Pai) - miniPi
 
 #### Skills
