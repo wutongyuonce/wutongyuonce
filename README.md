@@ -48,7 +48,7 @@
 - [pi-zen-mode](https://github.com/wutongyuonce/pi-zen-mode) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-zen-mode?style=flat&color=gold)](https://github.com/wutongyuonce/pi-zen-mode) - pi 的极简模式扩展
 - [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) - pi 的 Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) 扩展
 
-## Main Contributions (merged PRs)
+## Main Contributions
 
 #### Agent Harness
 
@@ -57,20 +57,20 @@
   <a href="https://github.com/earendil-works/pi">pi</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold">
-  &nbsp;·&nbsp; 6 PRs
+  &nbsp;·&nbsp; 4 PRs、2 useful Issues
   &nbsp;·&nbsp; Extensible AI coding agent and development toolkit
 </summary>
 
 <br>
 
-| PR | Commit |
+| PR/issue | Commit |
 | :-: | --- |
 | [#8985](https://github.com/earendil-works/pi/pull/8985) | [fix(coding-agent): avoid overwriting imported sessions](https://github.com/earendil-works/pi/commit/1a773c8e7a535e35a15e9babc37231e515b18794) |
 | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments](https://github.com/earendil-works/pi/commit/c6b00676b8fea5e8e2bddd618943c6e73a38c9b3) |
 | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares](https://github.com/earendil-works/pi/commit/6f35de5b598037c28e05f52e23a00301e1275819) |
 | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions](https://github.com/earendil-works/pi/commit/21b8cc1a4b84786aa08400fb4dbb6a92a5891fd6) |
-| [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
+| [#10246](https://github.com/earendil-works/pi/issues/10246) | [feat(coding-agent): reload additions to defaultTools](https://github.com/earendil-works/pi/commit/db6cc71dc7b69202dc560e71106bb9dfd454e758) |
 
 </details>
 
@@ -322,12 +322,12 @@
 
 | Project | PR | Title |
 | --- | --- | --- |
+| [pi](https://github.com/earendil-works/pi) | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
+|  | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
 | [memU](https://github.com/NevaMind-AI/memU) | [#690](https://github.com/NevaMind-AI/memU/pull/690) | feat(retrieve): fuse BM25 with cosine via RRF |
 | [OpenViking](https://github.com/volcengine/OpenViking) | [#4658](https://github.com/volcengine/OpenViking/pull/4658) | feat(session): extract session skills even when no training cases are produced |
 |  | [#4660](https://github.com/volcengine/OpenViking/pull/4660) | feat(bot): deliver send:// generated images on Telegram, Discord, and Slack |
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
 |  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
-|  | [#5338](https://github.com/volcengine/OpenViking/pull/5338) | perf(reindex): parallelize resource directory vector admission |
-| [pi](https://github.com/earendil-works/pi) | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
 
 </details>
