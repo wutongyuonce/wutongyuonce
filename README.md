@@ -9,12 +9,7 @@
 
 *正在找 agent 相关实习，欢迎联系 18896680730@163.com*
 
-<a href="https://ghfind.com/u/wutongyuonce?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/wutongyuonce?variant=radar&theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/wutongyuonce?variant=radar&theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
-</a>
+[![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/wutongyuonce?variant=radar&theme=light&lang=zh)](https://ghfind.com/u/wutongyuonce?ref=badge)
 
 [![Tokens Stats](https://tokens.ci/api/embed/wutongyuonce/svg?theme=light&template=graph&rank=total&tokens=compact&cost=compact)](https://tokens.ci/u/wutongyuonce)
 
