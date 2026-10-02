@@ -16,6 +16,8 @@
   </picture>
 </a>
 
+[![Tokens Stats](https://tokens.ci/api/embed/wutongyuonce/svg?theme=light&template=graph&rank=total&tokens=compact&cost=compact)](https://tokens.ci/u/wutongyuonce)
+
 <div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=wutongyuonce&show_icons=true&include_all_commits=true&theme=default&hide_border=false" height="185px">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wutongyuonce&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&theme=default&hide_border=false#gh-light-mode-only" height="185px">
