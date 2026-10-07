@@ -157,11 +157,11 @@
 | [#127](https://github.com/datawhalechina/deepagents-in-action/pull/127) | [docs: 新增第 5 章子 Agent 委派与上下文隔离 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/9dc975a40e656c1ec3474dace8e3bc613b843f5c) |
 | [#129](https://github.com/datawhalechina/deepagents-in-action/pull/129) | [docs: 添加第 6 章异步子 Agent 的本地生命周期 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/e92f8325ba78a30b45919684db3f2edecf5fe8e7) |
 | [#133](https://github.com/datawhalechina/deepagents-in-action/pull/133) | [docs: 添加第 7 章 Skills 渐进式加载 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/f8788f64c46f579ada8b58aab8a92d8765124fc5) |
-| [#134](https://github.com/datawhalechina/deepagents-in-action/pull/134) | [docs: 添加第 8 章长期记忆 Notebook]() |
+| [#134](https://github.com/datawhalechina/deepagents-in-action/pull/134) | [docs: 添加第 8 章长期记忆 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/d06fab797e10593199c6377ab78444505ba7772f) |
 | [#135](https://github.com/datawhalechina/deepagents-in-action/pull/135) | [docs: 添加第 9 章工具审批与中断恢复 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/f8788f64c46f579ada8b58aab8a92d8765124fc5) |
 | [#136](https://github.com/datawhalechina/deepagents-in-action/pull/136) | [docs: 添加第 10 章沙箱执行与文件传输 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/241163a0bf90aae55e49590d4972b2b88122bc73) |
 | [#137](https://github.com/datawhalechina/deepagents-in-action/pull/137) | [docs: 添加第 11 章文件系统权限 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/25b1db6b610c046e1f6261ea5c97409223005107) |
-| [#139](https://github.com/datawhalechina/deepagents-in-action/pull/139) | [docs: 添加第 13 章评分量规 Notebook]() |
+| [#139](https://github.com/datawhalechina/deepagents-in-action/pull/139) | [docs: 添加第 13 章评分量规 Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/42e846a197c3f4905536b4c41ea7f847901eb1ba) |
 | [#140](https://github.com/datawhalechina/deepagents-in-action/pull/140) | [docs: 添加第 14 章 Streaming Notebook](https://github.com/datawhalechina/deepagents-in-action/commit/399315a6e80aa8823d403e58b339b6dad14fcf8b) |
 | [#132](https://github.com/datawhalechina/deepagents-in-action/pull/132) | [docs: 澄清第 6 章 Agent Server、ASGI 传输与服务启动流程](https://github.com/datawhalechina/deepagents-in-action/commit/fdb72bd426dc55bae86d64bc3fa97facdd5946b0) |
 | [#125](https://github.com/datawhalechina/deepagents-in-action/pull/125) | [docs: 修正第 1、5 章技术描述](https://github.com/datawhalechina/deepagents-in-action/commit/315505a19633c0edc8e755496d2b2e981f9704c1) |
