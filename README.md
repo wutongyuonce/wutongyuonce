@@ -315,6 +315,24 @@
 </details>
 
 <details>
+<summary>
+  <a href="https://github.com/Yudaotor/lyrimuse">lyrimuse</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/Yudaotor/lyrimuse?style=flat&color=gold">
+  &nbsp;·&nbsp; 1 PR
+  &nbsp;·&nbsp; Word-synced desktop lyrics on macOS for Apple Music, Spotify, QQ Music...
+</summary>
+
+<br>
+
+| PR | Commit |
+| :-: | --- |
+| [#37](https://github.com/Yudaotor/lyrimuse/pull/37) | [fix(playback): trust per-client state after focus loss - #37
+](https://github.com/Yudaotor/lyrimuse/commit/a3c5e5892f493cc241b8c56f5ab7c6247239a5f8) |
+
+</details>
+
+<details>
 <summary>Unmerged PRs</summary>
 
 | Project | PR | Title |
