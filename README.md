@@ -134,7 +134,7 @@
 | [#5073](https://github.com/apache/maka/pull/5073) | [fix(mcp): advertise Apache identity in OAuth DCR](https://github.com/apache/maka/commit/1c217a5c528d5f967686199959bcf82a84d660a8) |
 | [#5051](https://github.com/apache/maka/pull/5051) | [feat(computer-use): move overlay cursor for set_value and press_key]() |
 | [#5052](https://github.com/apache/maka/pull/5052) | [feat(computer-use): keep overlay cursor elevated when the aim point is covered]() |
-| [#5050](https://github.com/apache/maka/pull/5050) | [feat(computer-use): show snapshot selected text in model observations]() |
+| [#5050](https://github.com/apache/maka/pull/5050) | [feat(computer-use): show snapshot selected text in model observations](https://github.com/apache/maka/commit/6e1f1d94f71e48d2618e06b7d9aa2cd12fd44a00) |
 | [#5598](https://github.com/apache/maka/pull/5598) | [feat(runtime): resolve relative image sources in WebFetch Markdown output](https://github.com/apache/maka/commit/fd490b7f0e267a39352714debc3993302d918476) |
 | [#5599](https://github.com/apache/maka/pull/5599) | [feat(runtime): report Glob truncation instead of stopping silently](https://github.com/apache/maka/commit/714b0b687fedf931e885cf4e681dc3b101471289) |
 | [#5628](https://github.com/apache/maka/pull/5628) | [perf(desktop): update onboarding from targeted Session reads](https://github.com/apache/maka/commit/fb9df6c3dbbc449b8ff54dd4b608cc04381d3d81) |
