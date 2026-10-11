@@ -229,7 +229,7 @@
 
 | PR | Commit |
 | :-: | --- |
-| [#1753](https://github.com/oceanbase/powercontext/pull/1753) | [feat(server): add protocol discovery and persistent identity]() |
+| [#1753](https://github.com/oceanbase/powercontext/pull/1753) | [feat(server): add protocol discovery and persistent identity](https://github.com/oceanbase/powercontext/commit/20583250a6bdce5bab8716321ee3911844b6de2d) |
 | [#1604](https://github.com/oceanbase/powercontext/pull/1604) | [feat(pi): add artifact inspection tools](https://github.com/oceanbase/powercontext/commit/9ff03eedffe6e73a54bb3adf40d42badd7cacdf7) |
 | [#1608](https://github.com/oceanbase/powercontext/pull/1608) | [feat(pi): add Topic Memory read tools](https://github.com/oceanbase/powercontext/commit/13518e4d8a49c1e19d3ed2dd61b31c248c426a0e) |
 | [#1617](https://github.com/oceanbase/powercontext/pull/1617) | [feat(pi): add structured work continuity tools](https://github.com/oceanbase/powercontext/commit/5ea71260c59f454223e4569d11175ad62eea95d1) |
