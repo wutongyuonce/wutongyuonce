@@ -319,7 +319,7 @@
   <a href="https://github.com/Yudaotor/lyrimuse">lyrimuse</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/Yudaotor/lyrimuse?style=flat&color=gold">
-  &nbsp;·&nbsp; 2 PRs
+  &nbsp;·&nbsp; 3 PRs
   &nbsp;·&nbsp; Word-synced desktop lyrics on macOS for Apple Music, Spotify, QQ Music...
 </summary>
 
@@ -328,7 +328,8 @@
 | PR | Commit |
 | :-: | --- |
 | [#37](https://github.com/Yudaotor/lyrimuse/pull/37) | [fix(playback): trust per-client state after focus loss](https://github.com/Yudaotor/lyrimuse/commit/a3c5e5892f493cc241b8c56f5ab7c6247239a5f8) |
-| [#45](https://github.com/Yudaotor/lyrimuse/pull/45) | [fix(playback): control unfocused QQ Music through its own menus]() |
+| [#45](https://github.com/Yudaotor/lyrimuse/pull/45) | [feat(playback): control unfocused QQ Music through its own menus]() |
+| [#46](https://github.com/Yudaotor/lyrimuse/pull/46) | [feat(playback): control unfocused NetEase through its menus]() |
 
 </details>
 
