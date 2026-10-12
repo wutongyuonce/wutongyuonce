@@ -328,8 +328,8 @@
 | PR | Commit |
 | :-: | --- |
 | [#37](https://github.com/Yudaotor/lyrimuse/pull/37) | [fix(playback): trust per-client state after focus loss](https://github.com/Yudaotor/lyrimuse/commit/a3c5e5892f493cc241b8c56f5ab7c6247239a5f8) |
-| [#45](https://github.com/Yudaotor/lyrimuse/pull/45) | [feat(playback): control unfocused QQ Music through its own menus]() |
-| [#46](https://github.com/Yudaotor/lyrimuse/pull/46) | [feat(playback): control unfocused NetEase through its menus]() |
+| [#45](https://github.com/Yudaotor/lyrimuse/pull/45) | [feat(playback): control unfocused QQ Music through its own menus](https://github.com/Yudaotor/lyrimuse/commit/53a7ddef1853a86a672df6bf5cb1657de99ee6e1) |
+| [#46](https://github.com/Yudaotor/lyrimuse/pull/46) | [feat(playback): control unfocused NetEase through its menus](https://github.com/Yudaotor/lyrimuse/commit/53a7ddef1853a86a672df6bf5cb1657de99ee6e1) |
 
 </details>
 
