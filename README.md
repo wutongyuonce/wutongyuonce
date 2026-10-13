@@ -3,7 +3,7 @@
 **I love coding and designing elegant systems.**
 
 - 🤖 **Exploring**: Long-Horizon Harness & Long-term Memory & Agent Infra(Sandbox、Computer Use）
-- 🎓 **Education**: IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ MS CS @ [HKUST](https://hkust.edu.hk)
+- 🎓 **Education**: IoT @ <a href="https://www.hhu.edu.cn">HHU</a> ｜ MS IT @ [HKUST](https://hkust.edu.hk)
 - 🧑‍💻 **Internship**: prev @GIAN - agent development
 - 🌐 **Links**: visit my blog [here](https://www.wutongyu.site) or reach me on <a href="https://x.com/Yu2002964143523"><img src="https://img.shields.io/badge/X-@Yu2002964143523-000?style=flat&logo=x" alt="X"></a>
 
