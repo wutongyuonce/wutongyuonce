@@ -133,7 +133,7 @@
 | [#5070](https://github.com/apache/maka/pull/5070) | [feat(mcp): forward tools/call progress to Host](https://github.com/apache/maka/commit/0d09c5f0ffa6ae805e578b1839ae5f17ee8ebd46) |
 | [#5073](https://github.com/apache/maka/pull/5073) | [fix(mcp): advertise Apache identity in OAuth DCR](https://github.com/apache/maka/commit/1c217a5c528d5f967686199959bcf82a84d660a8) |
 | [#5051](https://github.com/apache/maka/pull/5051) | [feat(computer-use): move overlay cursor for set_value and press_key](https://github.com/apache/maka/commit/d6a5b99ba0f557e4bd27a5a64c4988d3cbf7f4be) |
-| [#5052](https://github.com/apache/maka/pull/5052) | [feat(computer-use): keep overlay cursor elevated when the aim point is covered]() |
+| [#5052](https://github.com/apache/maka/pull/5052) | [feat(computer-use): keep overlay cursor elevated when the aim point is covered](https://github.com/apache/maka/commit/ecd4dba8a6fcbdc8846e0b4e4de7f6ffbd3ccb8f) |
 | [#5050](https://github.com/apache/maka/pull/5050) | [feat(computer-use): show snapshot selected text in model observations](https://github.com/apache/maka/commit/6e1f1d94f71e48d2618e06b7d9aa2cd12fd44a00) |
 | [#5598](https://github.com/apache/maka/pull/5598) | [feat(runtime): resolve relative image sources in WebFetch Markdown output](https://github.com/apache/maka/commit/fd490b7f0e267a39352714debc3993302d918476) |
 | [#5599](https://github.com/apache/maka/pull/5599) | [feat(runtime): report Glob truncation instead of stopping silently](https://github.com/apache/maka/commit/714b0b687fedf931e885cf4e681dc3b101471289) |
