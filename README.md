@@ -28,22 +28,14 @@
 
 - [Trajex](https://github.com/wutongyuonce/Trajex) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - 散落的 Claude Code、Codex 与 Pi JSONL 会话，索引至同一个 SQLite 中
 - [Pai](https://github.com/wutongyuonce/Pai) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Pai?style=flat&color=gold)](https://github.com/wutongyuonce/Pai) - miniPi
+- [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - pi 架构与源码解析教程
+- [pi-extensions](https://github.com/wutongyuonce/pi-extensions) - 我平时使用和推荐的 pi 扩展集合
 
 #### Skills
 
 - [skills](https://github.com/wutongyuonce/skills) - 我平时使用的 Skill 集合，涵盖开发、设计和研究
-- [understand-project](https://github.com/wutongyuonce/understand-project) - 从整体架构、运行形态和真实数据链路读懂项目，并指导源码阅读与二次开发
 - [pr-lifecycle](https://github.com/wutongyuonce/pr-lifecycle) - 把 PR 当作持续收敛的契约：覆盖 SPEC、设计、实现、review、测试消融与最终审查的 Agent Skill
 - [video2article](https://github.com/wutongyuonce/video2article) - 把视频/播客重写成「阅读版本」文章的 Agent Skill：YouTube 字幕、小宇宙官方逐字稿、本地 ASR
-
-#### Pi Ecosystem
-
-- [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - pi 架构与源码解析教程
-- [pi-extensions](https://github.com/wutongyuonce/pi-extensions) - 我平时使用和推荐的 pi 扩展集合
-- [pi-repomap](https://github.com/wutongyuonce/pi-repomap) - pi 的 Tree-sitter 代码库分析扩展
-- [pi-tool-offloading](https://github.com/wutongyuonce/pi-tool-offloading) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-tool-offloading?style=flat&color=gold)](https://github.com/wutongyuonce/pi-tool-offloading) - pi 的上下文卸载扩展，将超大工具结果移至会话侧边文件，按需检索
-- [pi-zen-mode](https://github.com/wutongyuonce/pi-zen-mode) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-zen-mode?style=flat&color=gold)](https://github.com/wutongyuonce/pi-zen-mode) - pi 的极简模式扩展
-- [pi-dynamic-workflows](https://github.com/wutongyuonce/pi-dynamic-workflows) - pi 的 Claude Code-like [Dynamic Workflows](https://code.claude.com/docs/zh-CN/workflows) 扩展
 
 ## Main Contributions
 
