@@ -222,14 +222,13 @@
   <a href="https://github.com/oceanbase/powercontext">powercontext</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/oceanbase/powercontext?style=flat&color=gold">
-  &nbsp;·&nbsp; 10 PRs
+  &nbsp;·&nbsp; 9 PRs
   &nbsp;·&nbsp; Context for work that humans and agents hand off and continue
 </summary>
 
 
 | PR | Commit |
 | :-: | --- |
-| [#1767](https://github.com/oceanbase/powercontext/pull/1767) | [feat(memory): add compact Atomic Memory directory]() |
 | [#1753](https://github.com/oceanbase/powercontext/pull/1753) | [feat(server): add protocol discovery and persistent identity](https://github.com/oceanbase/powercontext/commit/20583250a6bdce5bab8716321ee3911844b6de2d) |
 | [#1604](https://github.com/oceanbase/powercontext/pull/1604) | [feat(pi): add artifact inspection tools](https://github.com/oceanbase/powercontext/commit/9ff03eedffe6e73a54bb3adf40d42badd7cacdf7) |
 | [#1608](https://github.com/oceanbase/powercontext/pull/1608) | [feat(pi): add Topic Memory read tools](https://github.com/oceanbase/powercontext/commit/13518e4d8a49c1e19d3ed2dd61b31c248c426a0e) |
