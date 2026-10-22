@@ -341,6 +341,5 @@
 | [OpenViking](https://github.com/volcengine/OpenViking) | [#4658](https://github.com/volcengine/OpenViking/pull/4658) | feat(session): extract session skills even when no training cases are produced |
 |  | [#4660](https://github.com/volcengine/OpenViking/pull/4660) | feat(bot): deliver send:// generated images on Telegram, Discord, and Slack |
 |  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
-|  | [#4736](https://github.com/volcengine/OpenViking/pull/4736) | feat(bot): process independent sessions concurrently |
 
 </details>
