@@ -331,15 +331,18 @@
 </details>
 
 <details>
-<summary>Unmerged PRs</summary>
+<summary>
+  <a href="https://github.com/ohmyangboy/PaperRss">PaperRSS</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/ohmyangboy/PaperRss?style=flat&color=gold">
+  &nbsp;·&nbsp; 1 PR
+  &nbsp;·&nbsp; Modern RSS Reader with AI capability
+</summary>
 
-| Project | PR | Title |
-| --- | --- | --- |
-| [pi](https://github.com/earendil-works/pi) | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries]() |
-|  | [#8744](https://github.com/earendil-works/pi/pull/8744) | feat(tui): add opt-in overlay selection exclusion |
-| [memU](https://github.com/NevaMind-AI/memU) | [#690](https://github.com/NevaMind-AI/memU/pull/690) | feat(retrieve): fuse BM25 with cosine via RRF |
-| [OpenViking](https://github.com/volcengine/OpenViking) | [#4658](https://github.com/volcengine/OpenViking/pull/4658) | feat(session): extract session skills even when no training cases are produced |
-|  | [#4660](https://github.com/volcengine/OpenViking/pull/4660) | feat(bot): deliver send:// generated images on Telegram, Discord, and Slack |
-|  | [#4730](https://github.com/volcengine/OpenViking/pull/4730) | docs(retrieval): clarify score threshold and hotness semantics |
+<br>
+
+| PR | Commit |
+| :-: | --- |
+| [#55](https://github.com/ohmyangboy/PaperRss/pull/55) | [fix: scope Kimi temperature omission to official endpoints](https://github.com/ohmyangboy/PaperRss/commit/1812f358cecc4074c4bcc488c551b2f6b332f01d) |
 
 </details>
