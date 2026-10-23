@@ -335,7 +335,7 @@
   <a href="https://github.com/ohmyangboy/PaperRss">PaperRSS</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/ohmyangboy/PaperRss?style=flat&color=gold">
-  &nbsp;·&nbsp; 1 PR
+  &nbsp;·&nbsp; 2 PRs
   &nbsp;·&nbsp; Modern RSS Reader with AI capability
 </summary>
 
@@ -344,5 +344,6 @@
 | PR | Commit |
 | :-: | --- |
 | [#55](https://github.com/ohmyangboy/PaperRss/pull/55) | [fix: scope Kimi temperature omission to official endpoints](https://github.com/ohmyangboy/PaperRss/commit/1812f358cecc4074c4bcc488c551b2f6b332f01d) |
+| [#54](https://github.com/ohmyangboy/PaperRss/pull/54) | [修复展示区截图盖住功能介绍](https://github.com/ohmyangboy/PaperRss/commit/06653ace9f4cc1aff2a74ba261df9e51f52c7940) |
 
 </details>
