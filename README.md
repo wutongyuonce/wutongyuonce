@@ -335,7 +335,7 @@
   <a href="https://github.com/ohmyangboy/PaperRss">PaperRSS</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/ohmyangboy/PaperRss?style=flat&color=gold">
-  &nbsp;·&nbsp; 3 PRs
+  &nbsp;·&nbsp; 4 PRs
   &nbsp;·&nbsp; Modern RSS Reader with AI capability
 </summary>
 
@@ -343,8 +343,30 @@
 
 | PR | Commit |
 | :-: | --- |
+| [#59](https://github.com/ohmyangboy/PaperRss/pull/59) | [fix(refresh): 刷新进度按轮重置并修复图标探测延时取消]() |
 | [#58](https://github.com/ohmyangboy/PaperRss/pull/58) | [fix(reader): 固定正文大图的关闭按钮]() |
 | [#55](https://github.com/ohmyangboy/PaperRss/pull/55) | [fix: scope Kimi temperature omission to official endpoints](https://github.com/ohmyangboy/PaperRss/commit/1812f358cecc4074c4bcc488c551b2f6b332f01d) |
 | [#54](https://github.com/ohmyangboy/PaperRss/pull/54) | [修复展示区截图盖住功能介绍](https://github.com/ohmyangboy/PaperRss/commit/06653ace9f4cc1aff2a74ba261df9e51f52c7940) |
+
+</details>
+
+<details>
+<summary>
+  <a href="https://github.com/teddychan/ice-2-macos">ice-2-macos</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/teddychan/ice-2-macos?style=flat&color=gold">
+  &nbsp;·&nbsp; 5 PRs
+  &nbsp;·&nbsp; Powerful menu bar manager for macOS
+</summary>
+
+<br>
+
+| PR | Commit |
+| :-: | --- |
+| [#150](https://github.com/teddychan/ice-2-macos/pull/150) | [fix(appearance): prevent 10s main-thread spin loop and tear down unused overlay panels](https://github.com/teddychan/ice-2-macos/commit/fb611eaba95accfd4afadb6ea06dd48a3b690102) |
+| [#159](https://github.com/teddychan/ice-2-macos/pull/159) — 精简自 [#152](https://github.com/teddychan/ice-2-macos/pull/152) | [Bound the Accessibility timeout and keep one pending hover task](https://github.com/teddychan/ice-2-macos/commit/c91ff1d0e32291db6340b48fff6e96042cf8cdfa) |
+| [#160](https://github.com/teddychan/ice-2-macos/pull/160) — 精简自 [#151](https://github.com/teddychan/ice-2-macos/pull/151) | [Stop Show on click firing on other status items on macOS 27](https://github.com/teddychan/ice-2-macos/commit/2f827b693de892a3683adba1665c7d9839072b56) |
+| [#162](https://github.com/teddychan/ice-2-macos/pull/162) — 精简自 [#153](https://github.com/teddychan/ice-2-macos/pull/153) | [Keep hidden items hidden when switching Spaces on macOS 27](https://github.com/teddychan/ice-2-macos/commit/9afb7dfed4fe594b9425a27c8ef6a5e4f5faf359) |
+| [#165](https://github.com/teddychan/ice-2-macos/pull/165) — 精简自 [#158](https://github.com/teddychan/ice-2-macos/pull/158) | [Treat the macOS 27 Input menu as its own item, and name the controls macOS hides](https://github.com/teddychan/ice-2-macos/commit/492daf9b6965fa3aef22f951cb8fc94a800b8692) |
 
 </details>
