@@ -51,7 +51,7 @@
   <a href="https://github.com/earendil-works/pi">pi</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/earendil-works/pi?style=flat&color=gold">
-  &nbsp;·&nbsp; 4 PRs、2 useful Issues
+  &nbsp;·&nbsp; 6 PRs
   &nbsp;·&nbsp; Extensible AI coding agent and development toolkit
 </summary>
 
@@ -65,7 +65,6 @@
 | [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries](https://github.com/earendil-works/pi/commit/a63c4ec5c89ce30f8f144c2c1eba7842ffab974b) |
 | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions](https://github.com/earendil-works/pi/commit/21b8cc1a4b84786aa08400fb4dbb6a92a5891fd6) |
-| [#10246](https://github.com/earendil-works/pi/issues/10246) | [feat(coding-agent): reload additions to defaultTools](https://github.com/earendil-works/pi/commit/db6cc71dc7b69202dc560e71106bb9dfd454e758) |
 
 </details>
 
@@ -317,7 +316,7 @@
   <a href="https://github.com/Yudaotor/lyrimuse">lyrimuse</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/Yudaotor/lyrimuse?style=flat&color=gold">
-  &nbsp;·&nbsp; 3 PRs
+  &nbsp;·&nbsp; 4 PRs
   &nbsp;·&nbsp; Word-synced desktop lyrics on macOS for Apple Music, Spotify, QQ Music...
 </summary>
 
@@ -328,6 +327,7 @@
 | [#37](https://github.com/Yudaotor/lyrimuse/pull/37) | [fix(playback): trust per-client state after focus loss](https://github.com/Yudaotor/lyrimuse/commit/a3c5e5892f493cc241b8c56f5ab7c6247239a5f8) |
 | [#45](https://github.com/Yudaotor/lyrimuse/pull/45) | [feat(playback): control unfocused QQ Music through its own menus](https://github.com/Yudaotor/lyrimuse/commit/53a7ddef1853a86a672df6bf5cb1657de99ee6e1) |
 | [#46](https://github.com/Yudaotor/lyrimuse/pull/46) | [feat(playback): control unfocused NetEase through its menus](https://github.com/Yudaotor/lyrimuse/commit/53a7ddef1853a86a672df6bf5cb1657de99ee6e1) |
+| [#66](https://github.com/Yudaotor/lyrimuse/pull/66) | [fix(menubar): use standard icon-only status item width](https://github.com/Yudaotor/lyrimuse/commit/896e277e22a7e50773d5bdcf50dbfa944364e081) |
 
 </details>
 
