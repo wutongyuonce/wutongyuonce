@@ -34,7 +34,7 @@
 
 - [Trajex](https://github.com/wutongyuonce/Trajex) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Trajex?style=flat&color=gold)](https://github.com/wutongyuonce/Trajex) - 散落的 Claude Code、Codex 与 Pi JSONL 会话，索引至同一个 SQLite 中
 - [Pai](https://github.com/wutongyuonce/Pai) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Pai?style=flat&color=gold)](https://github.com/wutongyuonce/Pai) - miniPi
-- [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - pi 架构与源码解析教程
+- [pi-deep-dive](https://github.com/wutongyuonce/pi-deep-dive) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-deep-dive?style=flat&color=gold)](https://github.com/wutongyuonce/pi-deep-dive) - Pi coding agent (v1.5) 架构解析中文教程 https://wutongyuonce.github.io/pi-deep-dive/
 - [pi-extensions](https://github.com/wutongyuonce/pi-extensions) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/pi-extensions?style=flat&color=gold)](https://github.com/wutongyuonce/pi-extensions) - 我平时使用和推荐的 pi 扩展集合
 
 #### Skills
