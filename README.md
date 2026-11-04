@@ -62,6 +62,7 @@
 | [#8985](https://github.com/earendil-works/pi/pull/8985) | [fix(coding-agent): avoid overwriting imported sessions](https://github.com/earendil-works/pi/commit/1a773c8e7a535e35a15e9babc37231e515b18794) |
 | [#8616](https://github.com/earendil-works/pi/pull/8616) | [fix(coding-agent): scan past non-EXIF APP1 segments](https://github.com/earendil-works/pi/commit/c6b00676b8fea5e8e2bddd618943c6e73a38c9b3) |
 | [#8613](https://github.com/earendil-works/pi/pull/8613) | [fix(coding-agent): isolate concurrent session shares](https://github.com/earendil-works/pi/commit/6f35de5b598037c28e05f52e23a00301e1275819) |
+| [#8612](https://github.com/earendil-works/pi/pull/8612) | [fix(coding-agent): clear delivered image-only queue entries](https://github.com/earendil-works/pi/commit/a63c4ec5c89ce30f8f144c2c1eba7842ffab974b) |
 | [#6354](https://github.com/earendil-works/pi/issues/6354) | [fix(coding-agent): clear label timestamp cache on new sessions](https://github.com/earendil-works/pi/commit/6efc09b7eb609fdb85e7855eb05313e042d4d1fb) |
 | [#8743](https://github.com/earendil-works/pi/pull/8743) | [fix(coding-agent): ignore stale tool image conversions](https://github.com/earendil-works/pi/commit/21b8cc1a4b84786aa08400fb4dbb6a92a5891fd6) |
 | [#10246](https://github.com/earendil-works/pi/issues/10246) | [feat(coding-agent): reload additions to defaultTools](https://github.com/earendil-works/pi/commit/db6cc71dc7b69202dc560e71106bb9dfd454e758) |
@@ -343,8 +344,8 @@
 
 | PR | Commit |
 | :-: | --- |
-| [#59](https://github.com/ohmyangboy/PaperRss/pull/59) | [fix(refresh): 刷新进度按轮重置并修复图标探测延时取消]() |
-| [#58](https://github.com/ohmyangboy/PaperRss/pull/58) | [fix(reader): 固定正文大图的关闭按钮]() |
+| [#59](https://github.com/ohmyangboy/PaperRss/pull/59) | [fix(refresh): 刷新进度按轮重置并修复图标探测延时取消](https://github.com/ohmyangboy/PaperRss/commit/efe32e049517de437d67ac1c56cc74c90a7a23a4) |
+| [#58](https://github.com/ohmyangboy/PaperRss/pull/58) | [fix(reader): 固定正文大图的关闭按钮](https://github.com/ohmyangboy/PaperRss/commit/27d3cd9c8f24772c0eafc0e335f488e89ab2c5ea) |
 | [#55](https://github.com/ohmyangboy/PaperRss/pull/55) | [fix: scope Kimi temperature omission to official endpoints](https://github.com/ohmyangboy/PaperRss/commit/1812f358cecc4074c4bcc488c551b2f6b332f01d) |
 | [#54](https://github.com/ohmyangboy/PaperRss/pull/54) | [修复展示区截图盖住功能介绍](https://github.com/ohmyangboy/PaperRss/commit/06653ace9f4cc1aff2a74ba261df9e51f52c7940) |
 
