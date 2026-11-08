@@ -345,10 +345,12 @@
 
 | PR | Commit |
 | :-: | --- |
+| [#61](https://github.com/ohmyangboy/PaperRss/pull/61) | [feat: add Pi to MCP quick install]() |
 | [#59](https://github.com/ohmyangboy/PaperRss/pull/59) | [fix(refresh): 刷新进度按轮重置并修复图标探测延时取消](https://github.com/ohmyangboy/PaperRss/commit/efe32e049517de437d67ac1c56cc74c90a7a23a4) |
 | [#58](https://github.com/ohmyangboy/PaperRss/pull/58) | [fix(reader): 固定正文大图的关闭按钮](https://github.com/ohmyangboy/PaperRss/commit/27d3cd9c8f24772c0eafc0e335f488e89ab2c5ea) |
 | [#55](https://github.com/ohmyangboy/PaperRss/pull/55) | [fix: scope Kimi temperature omission to official endpoints](https://github.com/ohmyangboy/PaperRss/commit/1812f358cecc4074c4bcc488c551b2f6b332f01d) |
 | [#54](https://github.com/ohmyangboy/PaperRss/pull/54) | [修复展示区截图盖住功能介绍](https://github.com/ohmyangboy/PaperRss/commit/06653ace9f4cc1aff2a74ba261df9e51f52c7940) |
+
 
 </details>
 
