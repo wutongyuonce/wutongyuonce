@@ -317,7 +317,7 @@
   <a href="https://github.com/Yudaotor/lyrimuse">lyrimuse</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/Yudaotor/lyrimuse?style=flat&color=gold">
-  &nbsp;·&nbsp; 4 PRs
+  &nbsp;·&nbsp; 5 PRs
   &nbsp;·&nbsp; Word-synced desktop lyrics on macOS for Apple Music, Spotify, QQ Music...
 </summary>
 
@@ -329,6 +329,7 @@
 | [#45](https://github.com/Yudaotor/lyrimuse/pull/45) | [feat(playback): control unfocused QQ Music through its own menus](https://github.com/Yudaotor/lyrimuse/commit/53a7ddef1853a86a672df6bf5cb1657de99ee6e1) |
 | [#46](https://github.com/Yudaotor/lyrimuse/pull/46) | [feat(playback): control unfocused NetEase through its menus](https://github.com/Yudaotor/lyrimuse/commit/53a7ddef1853a86a672df6bf5cb1657de99ee6e1) |
 | [#66](https://github.com/Yudaotor/lyrimuse/pull/66) | [fix(menubar): use standard icon-only status item width](https://github.com/Yudaotor/lyrimuse/commit/896e277e22a7e50773d5bdcf50dbfa944364e081) |
+| [#74](https://github.com/Yudaotor/lyrimuse/pull/74) | [feat(players): add MyGo Music with unfocused playback controls](https://github.com/Yudaotor/lyrimuse/commit/51805b4f4b2f6159a2d31c74110f7b2e866ab829) |
 
 </details>
 
@@ -359,7 +360,7 @@
   <a href="https://github.com/teddychan/ice-2-macos">ice-2-macos</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/teddychan/ice-2-macos?style=flat&color=gold">
-  &nbsp;·&nbsp; 6 PRs
+  &nbsp;·&nbsp; 1 PR
   &nbsp;·&nbsp; Powerful menu bar manager for macOS
 </summary>
 
@@ -368,10 +369,5 @@
 | PR | Commit |
 | :-: | --- |
 | [#150](https://github.com/teddychan/ice-2-macos/pull/150) | [fix(appearance): prevent 10s main-thread spin loop and tear down unused overlay panels](https://github.com/teddychan/ice-2-macos/commit/fb611eaba95accfd4afadb6ea06dd48a3b690102) |
-| [#159](https://github.com/teddychan/ice-2-macos/pull/159) — 精简自 [#152](https://github.com/teddychan/ice-2-macos/pull/152) | [Bound the Accessibility timeout and keep one pending hover task](https://github.com/teddychan/ice-2-macos/commit/c91ff1d0e32291db6340b48fff6e96042cf8cdfa) |
-| [#160](https://github.com/teddychan/ice-2-macos/pull/160) — 精简自 [#151](https://github.com/teddychan/ice-2-macos/pull/151) | [Stop Show on click firing on other status items on macOS 27](https://github.com/teddychan/ice-2-macos/commit/2f827b693de892a3683adba1665c7d9839072b56) |
-| [#161](https://github.com/teddychan/ice-2-macos/pull/161) — 精简自 [#155](https://github.com/teddychan/ice-2-macos/pull/155) | [fix(appearance): stop Remove menu bar background crashing on macOS 27](https://github.com/teddychan/ice-2-macos/commit/79ca64f7504725d7291f405c09be6cff6ab32518) |
-| [#162](https://github.com/teddychan/ice-2-macos/pull/162) — 精简自 [#153](https://github.com/teddychan/ice-2-macos/pull/153) | [Keep hidden items hidden when switching Spaces on macOS 27](https://github.com/teddychan/ice-2-macos/commit/9afb7dfed4fe594b9425a27c8ef6a5e4f5faf359) |
-| [#165](https://github.com/teddychan/ice-2-macos/pull/165) — 精简自 [#158](https://github.com/teddychan/ice-2-macos/pull/158) | [Treat the macOS 27 Input menu as its own item, and name the controls macOS hides](https://github.com/teddychan/ice-2-macos/commit/492daf9b6965fa3aef22f951cb8fc94a800b8692) |
 
 </details>
