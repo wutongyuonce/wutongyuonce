@@ -260,6 +260,23 @@
 
 <details>
 <summary>
+  <a href="https://github.com/vllm-project/vllm-omni">vllm-omni</a>
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/vllm-project/vllm-omni?style=flat&color=gold">
+  &nbsp;·&nbsp; 1 PR
+  &nbsp;·&nbsp; A framework for efficient model inference with omni-modality models
+</summary>
+
+<br>
+
+| PR | Commit |
+| :-: | --- |
+| [#7104](https://github.com/vllm-project/vllm-omni/pull/7104) | [[Bugfix] Register CFG companions before parent dispatch](https://github.com/vllm-project/vllm-omni/commit/0c6328ed4f5512cb1bf48d5bcba1f7634e47cbe7) |
+
+</details>
+
+<details>
+<summary>
   <a href="https://github.com/deer-flow/llm-space">llm-space</a>
   &nbsp;
   <img src="https://img.shields.io/github/stars/deer-flow/llm-space?style=flat&color=gold">
