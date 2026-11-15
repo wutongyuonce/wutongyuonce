@@ -28,7 +28,7 @@
 - [YuBlog](https://github.com/wutongyuonce/YuBlog) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/YuBlog?style=flat&color=gold)](https://github.com/wutongyuonce/YuBlog) - 我的 Astro 个人主页
 - [PlainBlog](https://github.com/wutongyuonce/PlainBlog) - 黑白极简 Astro 静态博客模板
 - [RepoMirror](https://github.com/wutongyuonce/repo-mirror) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/repo-mirror?style=flat&color=gold)](https://github.com/wutongyuonce/repo-mirror) - 将 GitHub 仓库或仓库子目录镜像到本地文件夹树的 macOS 桌面应用
-- [Itsycal](https://github.com/wutongyuonce/Itsycal) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Itsycal?style=flat&color=gold)](https://github.com/wutongyuonce/Itsycal) - Mac菜单栏日历的桌面小组件 fork
+- [Itsycal](https://github.com/wutongyuonce/Itsycal) [![GitHub stars](https://img.shields.io/github/stars/wutongyuonce/Itsycal?style=flat&color=gold)](https://github.com/wutongyuonce/Itsycal) - Mac 上的菜单栏日历，iPhone/iPad 上的日历提醒事项 app，配合周/月视图小组件，以及用自然语言管理日程和提醒事项的 AI 助手
 
 #### Agent
 
